@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="Noticias",Telefe HD
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0dv/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",El Trece HD
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0dt/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve HD
+http://weibtvoficial.com:8080/live/Verita1818chile/p6E983xmH7/712709.ts
+#EXTINF:-1 group-title="Noticias",TN HD
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0cf/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 tvg-logo="https://www.mercadonegro.pe/wp-content/uploads/2017/02/2fba4d503aa1c7460fda2213155810b8.png" group-title="PERU",America TV HD
+http://weibtvoficial.com:8080/live/Verita1818chile/p6E983xmH7/9476.ts
+#EXTINF:-1 group-title="Noticias",26TV
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0g6/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",A24
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0g3/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",C5N
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0g4/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",CNN en Espanol
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0cb/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",Cronica
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0g5/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",La Nacion TV
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0ea/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",Metro
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0ex/index.m3u8?device_id=8dd09d5ddda9
+#EXTINF:-1 group-title="Noticias",TV Publica HD
+http://oscam281w.ooguy.com:5000/lucho/1234/Noticias/a0cd/index.m3u8?device_id=8dd09d5ddda9
