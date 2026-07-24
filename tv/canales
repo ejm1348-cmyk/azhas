@@ -1,264 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="ARGENTINA",AR | SUN CHANNEL
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/624049.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="ARGENTINA",AR | CINE
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54215.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",AR | NET TV
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54165.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",AR | CANAL 26
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54199.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/PakaPaka.ar.png" group-title="ARGENTINA",AR | PAKA PAKA
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19555.ts
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1uXjU4oXRKo1xfBhLLqFuTLNzvDhHw4XUvMOnv7eiR0Px8JFqzJjXQZdptxGcGsA=w240-h480-rw" group-title="ARGENTINA",AR | TELEMAX
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46973.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PÚBLICA HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46972.ts
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="ARGENTINA",AR | DEPORTV HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19709.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/286050.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/12933.ts
-#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ARGENTINA",AR | VOLVER
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19983.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46977.ts
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png" group-title="ARGENTINA",AR | CRÓNICA TV
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19708.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46976.ts
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Litus-TV-en-vivo-Online.png" group-title="ARGENTINA",AR | LITUS TV SANTA FÉ
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54231.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest?cb=20210525001851&path-prefix=es" group-title="ARGENTINA",AR | GARAGE TV FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/209745.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/America_TV_%282018%29.png" group-title="ARGENTINA",AR | AMÉRICA TV HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/209741.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/286030.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ INTERNACIONAL HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/259317.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="ARGENTINA",AR | C5N
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/242080.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/langes-1100px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",AR | TN
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/613255.ts
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm0Dd5sQJgIR8R8rr6Pl30uOG1b.jpg" group-title="DEPORTES",Canelo Álvarez vs. Terence Crawford
-http://livetv-plus.com:8880/movie/SebasTv21/TTRVW/617981.mp4
-#EXTINF:-1 group-title="DEPORTES",Jūjutsu*cam*
-http://livetv-plus.com:8880/movie/SebasTv21/TTRVW/414914.mkv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y42PI9peurI/maxresdefault.jpg" group-title="DEPORTES",Formula 1 GP Arabia 2021
-http://livetv-plus.com:8880/movie/SebasTv21/TTRVW/394886.mp4
-#EXTINF:-1 group-title="DEPORTES",Liverpool vs Real Madrid  2do Tiempo
-http://livetv-plus.com:8880/movie/SebasTv21/TTRVW/272324.mkv
-#EXTINF:-1 group-title="DEPORTES",Liverpool vs Real Madrid 2022
-http://livetv-plus.com:8880/movie/SebasTv21/TTRVW/272323.mkv
-#EXTINF:-1 tvg-logo="https://cde.peru.com//ima/0/0/9/1/4/914258/380x300/uefa-champions-league-2014-15.jpg" group-title="DEPORTES",Final 2019 Tottenham Hotspur vs Liverpool FC *cam*
-http://livetv-plus.com:8880/movie/SebasTv21/TTRVW/254839.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/635283.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/635301.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS 1 HD ARG
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/635307.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS HD ARG
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/635313.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",DEP | ADRENALINA SPORTS
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/71832.ts
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",DEP | AFIZZIONADOS HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54984.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="DEPORTES",DEP | BAND SPORTS BRA
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/48534.ts
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c38d9be96454421548539/900" group-title="DEPORTES",DEP | BEIN SPORTS XTRA Ñ
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/259731.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",DEP | BEIN SPORTS Ñ
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36401.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",DEP | BEIN SPORTS Ñ SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/228360.ts
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh" group-title="DEPORTES",DEP | CALIENTE TV
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/558709.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es" group-title="DEPORTES",DEP | CDO BÁSICO SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/12826.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES",DEP | CLARO SPORTS 1 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/469052.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES",DEP | CLARO SPORTS 2 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/469053.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES",DEP | CLARO SPORTS HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/164262.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" group-title="DEPORTES",DEP | CLARO SPORTS SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/456657.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS  2 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/456658.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS  2 HD COL
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/257326.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS + HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518959.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS + SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/310535.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS 1 SD ECU
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/310516.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS 2 SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/158513.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS HD ARG OP 1
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/310509.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS HD COL
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/456660.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS HD ECU
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/310536.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="DEPORTES",DEP | EL CANAL DEL FÚTBOL FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66vHh780/4.png" group-title="ESPN PACK",ARG | ESPN 4
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/588128.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPN PACK",ARG | ESPN HD
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/588137.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXsTfXrz/2.png" group-title="ESPN PACK",ARG | ESPN 2
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/588138.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQkfSHxG/3.png" group-title="ESPN PACK",ARG | ESPN 3
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/588139.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN PREMIUM
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/588143.ts
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/198814.ts
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 ARG FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439754.ts
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 ARG HD
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/454719.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 CHI SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439775.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 COL HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/519821.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 COL SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439774.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439752.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/219171.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MEX HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/9380.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 MEX SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/185154.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 PER
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/220727.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 PER HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/219172.ts
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/219173.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439772.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 ARG
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/185666.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 ARG SD
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518964.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 BRA
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/456549.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439757.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 MEX
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518965.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 MEX FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/185149.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 MEX HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36391.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 PER HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518967.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",DEP | ESPN 2 SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439802.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",DEP | ESPN 3 ARG
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518963.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",DEP | ESPN 3 ARG HD
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/21220.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",DEP | ESPN 3 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518962.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",DEP | ESPN 3 MEX
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/9530.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",DEP | ESPN 3 MEX FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/40735.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",DEP | ESPN 3 MEX HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/186774.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="DEPORTES",DEP | ESPN 4 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/224430.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="DEPORTES",DEP | ESPN 4 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19485.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="DEPORTES",DEP | ESPN 4 MEX HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439801.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES",DEP | ESPN 4 MEX SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/21229.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="DEPORTES",DEP | ESPN 4 SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439770.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="DEPORTES",DEP | ESPN 5
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/272499.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN DEPORTES HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54533.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" group-title="DEPORTES",DEP | ESPN DEPORTES SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54094.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="DEPORTES",DEP | ESPN EXTRA BRA
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/168997.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",DEP | ESPN PREMIUM FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/276163.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",DEP | ESPN PREMIUM HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/215252.ts
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AFOX_Deportes_logo.svg&psig=AOvVaw0gTQlrqJSNGt_LAREGDaZF&ust=1736615906450000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiwrMPU64oDFQAAAAAdAAAAABAE" group-title="DEPORTES",DEP | FOX DEPORTES
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36396.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS  2 SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/439803.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX SPORTS 1 ARG
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/158518.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX SPORTS 1 COL HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518960.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX SPORTS 1 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36387.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX SPORTS 1 MEX
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19632.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX SPORTS 1 MEX HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/198785.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" group-title="DEPORTES",DEP | FOX SPORTS 1 SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/518961.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS 2 ARG HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19652.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS 2 BRA HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/48540.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS 2 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/186606.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS 2 MEX FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/186573.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS 2 MEX HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19495.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" group-title="DEPORTES",DEP | FOX SPORTS 2 SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/185155.ts
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F10010-fox-sports-3-arg-2023-png%2F&psig=AOvVaw2DU7AY3rBWjZ8IElNCBRVp&ust=1736616782784000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjfveXX64oDFQAAAAAdAAAAABAJ" group-title="DEPORTES",DEP | FOX SPORTS 3 FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36389.ts
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F10010-fox-sports-3-arg-2023-png%2F&psig=AOvVaw2DU7AY3rBWjZ8IElNCBRVp&ust=1736616782784000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjfveXX64oDFQAAAAAdAAAAABAJ" group-title="DEPORTES",DEP | FOX SPORTS 3 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19496.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX SPORTS 3 MEX FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/93563.ts
-#EXTINF:-1 tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" group-title="DEPORTES",DEP | FOX SPORTS 3 MEX HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/9538.ts
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" group-title="DEPORTES",DEP | FOX SPORTS PREMIUM
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/21298.ts
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" group-title="DEPORTES",DEP | FOX SPORTS PREMIUM HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/158454.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTES",DEP | GOL TV LAT
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/51263.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | PREMIERE 1
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/56720.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | PREMIERE 2
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/456656.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | PREMIERE 3
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/49111.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | PREMIERE 5
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/56716.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | PREMIERE 6
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/56717.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="DEPORTES",DEP | PREMIERE 7
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/56718.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES",DEP | SKY SPORTS 16 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/149063.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES",DEP | SKY SPORTS 24 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/149064.ts
-#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="DEPORTES",DEP | TNT SPORTS 3 HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19638.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT SPORTS ARG
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/211363.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT SPORTS ARG HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36424.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/1200px-TNT_Sports_Chile.svg.png" group-title="DEPORTES",DEP | TNT Sports CHI
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/224369.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES",DEP | TVC DEPORTES HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36406.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES",DEP | TyC Sport SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/21222.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES",DEP | TYC SPORTS  FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19461.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="DEPORTES",DEP | TYC SPORTS HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/454718.ts
-#EXTINF:-1 tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png" group-title="DEPORTES",DEP | TYC SPORTS INT HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/188939.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/512px-VTV%2BUruguay.svg.png?20190607234142" group-title="DEPORTES",DEP | VTV PLUS HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/186609.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfKss4Cs/ESP-N.png" group-title="DEPORTES PREMIUM",| ESPN 1 AR | HD |
+http://los84hijosdelsol.com/live/CARM03718932/M4KJkXsaMf/591974.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfKss4Cs/ESP-N.png" group-title="DEPORTES PREMIUM",| ESPN 1 ARG | FHD |
+http://los84hijosdelsol.com/live/CARM03718932/M4KJkXsaMf/591975.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Argentina",C5N FHD| AR
+http://los84hijosdelsol.com/live/CARM03718932/M4KJkXsaMf/712705.ts
