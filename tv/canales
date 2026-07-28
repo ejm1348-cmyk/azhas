@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RUS: HOME" tvg-logo="https://docdog.top/logo/countries/russian/homehealth.png" group-title="RUSSIAN VIP",RUS: HOME
-http://31.43.191.125:8080/B4HTZUrmkGFG/Ry2hcLB3bN5V/4231
+
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/curiosity-vod-us.png?raw=true" group-title="CULTURA",CUL | CURIOSITY
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdHJZNTZnTHNFM2t3ZE80cEQ1MU5KQmROZmMvcXdVYXpMNEpIOVdpWE5nSQ
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC HD
