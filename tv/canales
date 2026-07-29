@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iN0DTNXR0j944EZK9QNHmWNIWXkUDGlC00kCKIVKRESsm0IWlq22xXiHqgD2hEzggvR09djO=s900-c-k-c0x00ffffff-no-rj" group-title="✴️ EVENT  TIGO SPORTS",TIGO SPORTS (WORLD®) 17 HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwkXR9LZVh5Lqox5OQebECec/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfKss4Cs/ESP-N.png" group-title="DEPORTES PREMIUM",| ESPN 1 AR | HD |
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/591974.ts
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iN0DTNXR0j944EZK9QNHmWNIWXkUDGlC00kCKIVKRESsm0IWlq22xXiHqgD2hEzggvR09djO=s900-c-k-c0x00ffffff-no-rj" group-title="✴️ EVENT  TIGO SPORTS",TIGO SPORTS (WORLD®) 17 HD
+http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwkXR9LZVh5Lqox5OQebECec/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",DEP | ESPN PREMIUM HD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb2VWMHFPSit5TnlWMTVLL2ZxSHlOVE52UVAyUzRmYmNTdkhlak53TUxVaQ
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
 http://31.43.191.125:8080/vip8641775918778/583e8f109c78/4818
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
