@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfKss4Cs/ESP-N.png" group-title="DEPORTES PREMIUM",| ESPN 1 AR | HD |
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/591974.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TYC SPORTS HD
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712755.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV Sports Per
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/151274.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",DEP | ESPN PREMIUM HD
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/215252.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iN0DTNXR0j944EZK9QNHmWNIWXkUDGlC00kCKIVKRESsm0IWlq22xXiHqgD2hEzggvR09djO=s900-c-k-c0x00ffffff-no-rj" group-title="✴️ EVENT  TIGO SPORTS",TIGO SPORTS (WORLD®) 17 HD
 http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwkXR9LZVh5Lqox5OQebECec/ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
