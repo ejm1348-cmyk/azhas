@@ -3,8 +3,6 @@
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/591974.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iN0DTNXR0j944EZK9QNHmWNIWXkUDGlC00kCKIVKRESsm0IWlq22xXiHqgD2hEzggvR09djO=s900-c-k-c0x00ffffff-no-rj" group-title="✴️ EVENT  TIGO SPORTS",TIGO SPORTS (WORLD®) 17 HD
 http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwkXR9LZVh5Lqox5OQebECec/ts
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
-http://31.43.191.125:8080/vip8641775918778/583e8f109c78/4818
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
 http://31.43.191.125:8080/vip8641775918778/583e8f109c78/4723
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="ARGENTINA",AR | C5N
@@ -17,6 +15,8 @@ http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/67523
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNanB1YlZNUXdxSmZhd2VicjdqMk1kWUZSbXJNVEdmU3pZRkl1Ti9nVjFleg
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE SD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbGNJREpPMVRLVWZPT0lMa3RjWnUyZTlheHMzYkhVNDZMWlhWYStUQXhjVA
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
+http://31.43.191.125:8080/vip8641775918778/583e8f109c78/4818
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaCtuQk8wUzZiSmFMOGRuM3hiZmxiN0JNb0JOcm5iWjNxdTZJeXcyay9YKw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ HD
