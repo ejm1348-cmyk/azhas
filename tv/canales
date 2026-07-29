@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/1200px-A24_%282025%29.svg.png" group-title="ARGENTINA",AR | A24
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaUdtelkzZmVqNlNmTnp2MFYrdHIvbysrNWFZbmFZNDVQU1pEeitpN2JvUw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ HD
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcDg2aGJ5OFdtU0I4UStGbFZJMXVrMDYzVzQwblJENDdoRzN1aTI2amd4eQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",AR | CANAL 26
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNc3VPd3QzR0xTTnl2T2E2cDVRUmJweTE1bnMwdlFHRExBZWg2MGhTeGJORQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/langes-1100px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",AR | TN
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaU1QL0lPdzhuYjV0NTNyTkxFZzh4ZmtzVVAvcU9DQzNRTUduLzFsTTNVMA
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/curiosity-vod-us.png?raw=true" group-title="CULTURA",CUL | CURIOSITY
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdHJZNTZnTHNFM2t3ZE80cEQ1MU5KQmROZmMvcXdVYXpMNEpIOVdpWE5nSQ
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC HD
@@ -86,11 +93,6 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNa0dBS2VlcDcydDZGS2lJdDZV
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcXJMc1hGWkx3N2FsT3pNQmM4dUFmZWlVbFdNS2YzL0NMT1pSVFBuL2NqTQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/History_En_Espanol_0.png" group-title="CULTURA",CUL | HISTORY EN ESPAÑOL
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNazR0UXdxa0NlejZ1SVFHUW95Q1YrVnAvTlFzVHdlcnc4akZXMXVDcU04QQ
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TyC Sports
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712754.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TYC SPORTS HD
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712755.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="ARGENTINA",AR | SUN CHANNEL
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbVY5c3BBcStRVld0azVBaWN2d01FMUUyc2FPbjhNWXZLcVVqd0xOcmVlcw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="ARGENTINA",AR | CINE
@@ -99,8 +101,6 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdjIvaDluK2txRmFTMWJreG5L
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdCtqR1p3UWVTd0ZsNFcvVzVaWmZQSUJIR1FYRU1RelpkSEJObzZod1ovcw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",AR | NET TV
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNanBSV0ppRG5UY3RBSXZSaytsVUVDdU5ZMXhtL3UraE93L1pNS3FZVEFpVg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",AR | CANAL 26
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNc3VPd3QzR0xTTnl2T2E2cDVRUmJweTE1bnMwdlFHRExBZWg2MGhTeGJORQ
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/PakaPaka.ar.png" group-title="ARGENTINA",AR | PAKA PAKA
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNc0NuOExIZGxTbEQ5NkVSeXZ2RkFsSUlvN3ZLU092MVNia3Q4ZE9qcmc1Zg
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1uXjU4oXRKo1xfBhLLqFuTLNzvDhHw4XUvMOnv7eiR0Px8JFqzJjXQZdptxGcGsA=w240-h480-rw" group-title="ARGENTINA",AR | TELEMAX
@@ -111,8 +111,7 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcFlBVGZmVDZ6OW9IUjZ2T1RU
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb1puRUgwMEFhWk90R3d0ZEtnYWZzWWxMcmJXZnhKUnIyVVNTOGhLWms4eQ
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaCtuQk8wUzZiSmFMOGRuM3hiZmxiN0JNb0JOcm5iWjNxdTZJeXcyay9YKw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcDg2aGJ5OFdtU0I4UStGbFZJMXVrMDYzVzQwblJENDdoRzN1aTI2amd4eQ
+
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ARGENTINA",AR | VOLVER
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcmc1RU5PTjc2Z2ZOaDZtR2oxSE5VcHI1U0NCNCt1czBud0RndEEvdjFGcQ
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE HD
@@ -133,21 +132,8 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbGNJREpPMVRLVWZPT0lMa3Rj
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcmtrUlU5MG5yOWc3U1dGL0ZFYnQySmQ5eHlaV3NmVkNKbTl6V3FSb1p6aA
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="ARGENTINA",AR | C5N
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcHZ3V3ZGK0dDZ2FOczYwZ2F0SlZ5dVJwTmJoZE9tVGNjMnhJR2JkRzZFOQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/1200px-A24_%282025%29.svg.png" group-title="ARGENTINA",AR | A24
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaUdtelkzZmVqNlNmTnp2MFYrdHIvbysrNWFZbmFZNDVQU1pEeitpN2JvUw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/langes-1100px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",AR | TN
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaU1QL0lPdzhuYjV0NTNyTkxFZzh4ZmtzVVAvcU9DQzNRTUduLzFsTTNVMA
 
-#EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwvD6IDNwCvegHTSj_DLhB18/ts
-#EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM SD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwnQRTNRQMPC32eIm7835kzs/ts
-#EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mHyBQrLV5vempwiIq0Tl8SM.png" group-title="➡︎ ARGENTINA DEPORTES",AR| FOX SPORTS HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwtXqwkjiTssrbh2j_gzHTuM/ts
-#EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mF_u4T0KlW9S7F_glnsSylI.png" group-title="➡︎ ARGENTINA DEPORTES",AR| FOX SPORTS 2 HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwvfbPvBnBuW_KRDZCVu0XBQ/ts
-#EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mIeSx1x6SoBOqNBZt6Bl7pE.png" group-title="➡︎ ARGENTINA DEPORTES",AR| FOX SPORTS 3 HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwsW6xmHbrGSJw8IEGp7-OPo/ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TYC SPORTS HD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712755.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" group-title="Argentina",TYC SPORTS INTERNACIONAL
@@ -192,13 +178,4 @@ http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBdXIvb2pTUVZZemFqVUxWTzIr
 http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/67525
 #EXTINF:-1 tvg-id="" tvg-name="AR | Canal 26" tvg-logo="https://i.postimg.cc/xjM6543q/canal26.jpg" group-title="Argentina",AR | Canal 26
 http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/67523
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telefe" tvg-logo="https://i.postimg.cc/Bbhz71MG/telefe.jpg" group-title="Argentina",AR | Telefe
-#EXTINF:-1 tvg-id="" tvg-name="AR | America Tv" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="Argentina",AR | America Tv
-http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/210627p://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/181625
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 3" tvg-logo="https://i.ytimg.com/vi/DOOr0RuuYN8/hqdefault.jpg" group-title="Argentina",AR | ESPN 3
-http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/292587
-#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png" group-title="Argentina",AR | ESPN 2
-http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/292588
-#EXTINF:-1 tvg-id="" tvg-name="ARG | El Trece" tvg-logo="https://media.cdn.eldestapeweb.com/eldestape/122021/1639068588354/El-Trece.jpg?&cw=600&ch=365" group-title="Argentina",ARG | El Trece
-#EXTINF:-1 tvg-id="" tvg-name="Argentino QL (2016) LAT" tvg-logo="http://live.mw-panel.com:25461/images/567ed494b99872148f40d2d2f3de6214.jpg" group-title="Comedia",Argentino QL (2016) LAT
 
