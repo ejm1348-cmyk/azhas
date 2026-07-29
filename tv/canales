@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/1200px-A24_%282025%29.svg.png" group-title="ARGENTINA",AR | A24
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaUdtelkzZmVqNlNmTnp2MFYrdHIvbysrNWFZbmFZNDVQU1pEeitpN2JvUw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ INTERNACIONAL HD
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcmtrUlU5MG5yOWc3U1dGL0ZFYnQySmQ5eHlaV3NmVkNKbTl6V3FSb1p6aA
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="ARGENTINA",AR | C5N
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcHZ3V3ZGK0dDZ2FOczYwZ2F0SlZ5dVJwTmJoZE9tVGNjMnhJR2JkRzZFOQ
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24" tvg-logo="http://sunset-app.com/picons/sudamerica/a24.jpg" group-title="Argentina",AR | A24
+http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/67525
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal 26" tvg-logo="https://i.postimg.cc/xjM6543q/canal26.jpg" group-title="Argentina",AR | Canal 26
+http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/67523
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/America_TV_%282018%29.png" group-title="ARGENTINA",AR | AMÉRICA TV HD
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNanB1YlZNUXdxSmZhd2VicjdqMk1kWUZSbXJNVEdmU3pZRkl1Ti9nVjFleg
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE SD
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbGNJREpPMVRLVWZPT0lMa3RjWnUyZTlheHMzYkhVNDZMWlhWYStUQXhjVA
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaCtuQk8wUzZiSmFMOGRuM3hiZmxiN0JNb0JOcm5iWjNxdTZJeXcyay9YKw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ HD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcDg2aGJ5OFdtU0I4UStGbFZJMXVrMDYzVzQwblJENDdoRzN1aTI2amd4eQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",AR | CANAL 26
@@ -109,9 +121,6 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdUxRSy9jTitrQk5TODY3VERF
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcFlBVGZmVDZ6OW9IUjZ2T1RUbHpwc0JBYUFBV08wN1FUeHREditOc2s5ag
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="ARGENTINA",AR | DEPORTV HD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb1puRUgwMEFhWk90R3d0ZEtnYWZzWWxMcmJXZnhKUnIyVVNTOGhLWms4eQ
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="ARGENTINA",AR | EL TRECE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaCtuQk8wUzZiSmFMOGRuM3hiZmxiN0JNb0JOcm5iWjNxdTZJeXcyay9YKw
-
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ARGENTINA",AR | VOLVER
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcmc1RU5PTjc2Z2ZOaDZtR2oxSE5VcHI1U0NCNCt1czBud0RndEEvdjFGcQ
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE HD
@@ -124,22 +133,6 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb0xDS3U1UW93cDV5TGpkQjJt
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaEF4cWdlNDBhK29TemRtU0d0YWNJejMwQWU3NWoxWTNCSEN6VTZHL1lQSQ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest?cb=20210525001851&path-prefix=es" group-title="ARGENTINA",AR | GARAGE TV FHD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNZ0JWMnpENFZOR0sramMyS3dPSC9VMDN2YU41TjZhKy94WXJITDFpNWx1bQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/America_TV_%282018%29.png" group-title="ARGENTINA",AR | AMÉRICA TV HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNanB1YlZNUXdxSmZhd2VicjdqMk1kWUZSbXJNVEdmU3pZRkl1Ti9nVjFleg
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbGNJREpPMVRLVWZPT0lMa3RjWnUyZTlheHMzYkhVNDZMWlhWYStUQXhjVA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ INTERNACIONAL HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcmtrUlU5MG5yOWc3U1dGL0ZFYnQySmQ5eHlaV3NmVkNKbTl6V3FSb1p6aA
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="ARGENTINA",AR | C5N
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcHZ3V3ZGK0dDZ2FOczYwZ2F0SlZ5dVJwTmJoZE9tVGNjMnhJR2JkRzZFOQ
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TYC SPORTS HD
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712755.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" group-title="Argentina",TYC SPORTS INTERNACIONAL
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/722820.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TyC Sports
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712754.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wA1uEoVY9QL2JGhNSGecue8euP.jpg" group-title="WWE",WWE WrestleMania 42 – Sunday (2026)
 http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBZ014TEg5ckMybGJtMmNsUDlCNCtyQURNUEkxUldwc2x5M3VXblFFSmVQdw
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZqaqAmOusw3f2bN164niCFWqgx.jpg" group-title="WWE",WWE WrestleMania 42 – Saturday (2026)
@@ -174,8 +167,4 @@ http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBa1NGazFiaFNLSytZWnZidkY0
 http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBcHdvL3dOZEZSVjNuZk9WUFA1K0hUNW1PZmFlVTQyR2hYSTc1amJPOUZkUA
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Yq34gt9bYkib5wcQho0wDp8uj.jpg" group-title="WWE",WWE Day 1 2022
 http://livetv-plus.com:8880/M0VtenJDeFE3S3l0RmtkT25KRkpBdXIvb2pTUVZZemFqVUxWTzIrdVJxYVhFdGlEU0FDQjU5c1cybXVkVHVUNA
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24" tvg-logo="http://sunset-app.com/picons/sudamerica/a24.jpg" group-title="Argentina",AR | A24
-http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/67525
-#EXTINF:-1 tvg-id="" tvg-name="AR | Canal 26" tvg-logo="https://i.postimg.cc/xjM6543q/canal26.jpg" group-title="Argentina",AR | Canal 26
-http://play.pelusa.online:8080/JoseRamon/K5E74EYXNc9K/67523
 
