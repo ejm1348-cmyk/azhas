@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM HD
 http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwvD6IDNwCvegHTSj_DLhB18/ts
-
+#EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM SD
+http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwnQRTNRQMPC32eIm7835kzs/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfKss4Cs/ESP-N.png" group-title="DEPORTES PREMIUM",| ESPN 1 AR | HD |
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/591974.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TYC SPORTS HD
