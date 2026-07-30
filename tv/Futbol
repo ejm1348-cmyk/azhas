@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONS | ESPN 1 ARG" tvg-logo="https://archive.org/download/ln_20230429/CL.jpg" group-title="⚽ CHAMPIONS LEAGUE",CHAMPIONS | ESPN 1 ARG
+http://liontv.es:8080/fer519car/Yiv48vneoR/362747
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM SD
 http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwnQRTNRQMPC32eIm7835kzs/ts
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM HD
