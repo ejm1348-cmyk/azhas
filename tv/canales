@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwvD6IDNwCvegHTSj_DLhB18.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwvD6IDNwCvegHTSj_DLhB18/ts#User-Agent=VLC/3.0.18
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mMg7LoQ65nzQbEgB43kxPj4.png" group-title="➡︎ ARGENTINA DEPORTES",AR| ESPN PREMIUM SD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwnQRTNRQMPC32eIm7835kzs.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwnQRTNRQMPC32eIm7835kzs/ts#User-Agent=VLC/3.0.18
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mHyBQrLV5vempwiIq0Tl8SM.png" group-title="➡︎ ARGENTINA DEPORTES",AR| FOX SPORTS HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwtXqwkjiTssrbh2j_gzHTuM.ts
+http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwtXqwkjiTssrbh2j_gzHTuM/ts
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mF_u4T0KlW9S7F_glnsSylI.png" group-title="➡︎ ARGENTINA DEPORTES",AR| FOX SPORTS 2 HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwvfbPvBnBuW_KRDZCVu0XBQ.ts
+http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwvfbPvBnBuW_KRDZCVu0XBQ/ts
 #EXTINF:-1 tvg-logo="http://tvc.lat:2082/images/g7gXo4EoGWh-WxTRr1F0mIeSx1x6SoBOqNBZt6Bl7pE.png" group-title="➡︎ ARGENTINA DEPORTES",AR| FOX SPORTS 3 HD
-http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwsW6xmHbrGSJw8IEGp7-OPo.ts
+http://tvc.lat:2082/play/UCf-uhK4vZFDfcalkeGJwsW6xmHbrGSJw8IEGp7-OPo/ts
