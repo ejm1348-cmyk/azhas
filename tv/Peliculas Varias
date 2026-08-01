@@ -15,10 +15,16 @@ http://liontv.es:8080/movie/hsgggew4g/sdf42sf22f4/1650326.mkv
 http://liontv.es:8080/movie/hsgggew4g/sdf42sf22f4/1650330.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" group-title="▶️Harry Potter (Colección)",Harry Potter and the Prisoner of Azkaban - 2004
 http://liontv.es:8080/movie/hsgggew4g/sdf42sf22f4/1650327.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Torrente 2: Misión en Marbella - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAXIn7wFa6140zi6LzYMD6Rt8CD.jpg" group-title="▶️ ACCION",Torrente 2: Misión en Marbella - 2001
-http://liontv.es:8080/movie/fer519car/Yiv48vneoR/1648419.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Torrente 3: El protector - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDPujLAIQTfUCkrS21l8FXGXb5E.jpg" group-title="▶️HBO MAX CRIMEN",Torrente 3: El protector - 2005
-http://liontv.es:8080/movie/fer519car/Yiv48vneoR/1648421.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Torrente 5: Operación Eurovegas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdrLVB61b0ALAjxFwtbmlv1GT4.jpg" group-title="▶️ ACCION",Torrente 5: Operación Eurovegas - 2014
-http://liontv.es:8080/movie/fer519car/Yiv48vneoR/1648423.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAqKRiDVL0f38AoUKpDI32oY5r.jpg" group-title="SAGA TORRENTE",el brazo tonto de la ley (1998)
+https://qaz.medusatv.xyz:8443/movie/WsfGMQN3Xjsk/x7fS8unHm8Q7/19347.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pAXIn7wFa6140zi6LzYMD6Rt8CD.jpg" group-title="SAGA TORRENTE",Torrente 2: Misión en Marbella (2001)
+https://qaz.medusatv.xyz:8443/movie/WsfGMQN3Xjsk/x7fS8unHm8Q7/19348.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wDPujLAIQTfUCkrS21l8FXGXb5E.jpg" group-title="SAGA TORRENTE",Torrente 3: El protector (2005)
+https://qaz.medusatv.xyz:8443/movie/WsfGMQN3Xjsk/x7fS8unHm8Q7/19349.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ye6vXu1Ts4lo8gPlKUBRESvdgic.jpg" group-title="SAGA TORRENTE",Torrente 4: Lethal crisis (2011)
+https://qaz.medusatv.xyz:8443/movie/WsfGMQN3Xjsk/x7fS8unHm8Q7/19350.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdrLVB61b0ALAjxFwtbmlv1GT4.jpg" group-title="SAGA TORRENTE",Torrente 5: Operación Eurovegas (2014)
+https://qaz.medusatv.xyz:8443/movie/WsfGMQN3Xjsk/x7fS8unHm8Q7/19351.avi
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2wyiEiOS8gYyslveyYwlCKB9XYt.jpg" group-title="SAGA TORRENTE",Torrente Presidente (2026)
+https://qaz.medusatv.xyz:8443/movie/WsfGMQN3Xjsk/x7fS8unHm8Q7/19518.mkv
 
