@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN Noticias
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712717.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN NOTICIAS
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712718.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 FHD
@@ -26,8 +28,6 @@ http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712709.ts
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712711.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",Telefe FHD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712715.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN Noticias
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712717.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica FHD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712720.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica
