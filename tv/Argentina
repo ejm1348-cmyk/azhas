@@ -4,8 +4,9 @@
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712718.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 FHD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712702.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",Crónica TV  HD| AR
-htt#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",CRONICA
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712706.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712741.tsp://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712707.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación + | AR
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712712.ts
