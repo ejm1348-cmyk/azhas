@@ -1,11 +1,19 @@
 #EXTINF:-1 tvg-logo="https://www.malatintamagazine.com/wp-content/uploads/2014/10/narutoportada1.png" group-title="24/7",24/7 | NARUTO ⭐️
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdGJHeUFrWDIxVHl6OFpvRVJmblNoY0FqV3plTjdwM2paS0Y5NkdYYmVxRg
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f21f2819-c11c-4615-8479-4b62d7cd4181/d9bmsyy-35dfb3a4-11e1-47a1-9a23-508090218e84.png" group-title="24/7",24/7 | LA LISTA NEGRA T1 ⭐️
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdFZqdTBzcUlSSW5JM0JBbUIxd1JxRldiQTNhTlI3QnkvU3JWazMyNkZqMw
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="✈CULTURA✈",Discovery Familia FHD
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/415642.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="✈CULTURA✈",MUSEUM TV
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/771892.ts
+p://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/79479.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ALERTA AEROPUERTO
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbXhVTzlvOGU2RS92eDcyVG5ZQWQvb3ArOVdkem9RZnJtSmtHNmNPL2NyNA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | HARRY POTTER
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb2FOZStaTnRBRStVV3pWUFJYbW9KenRVNHUzazZCaTFnd0F0RTg0bllWcw
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f21f2819-c11c-4615-8479-4b62d7cd4181/d9bmsyy-35dfb3a4-11e1-47a1-9a23-508090218e84.png" group-title="24/7",24/7 | LA LISTA NEGRA T1 ⭐️
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdFZqdTBzcUlSSW5JM0JBbUIxd1JxRldiQTNhTlI3QnkvU3JWazMyNkZqMw
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="✈CULTURA✈",MUSEUM TV
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/771892.ts
+p://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/79479.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="✈CULTURA✈",Discovery Familia FHD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/415642.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="✈CULTURA✈",Discovery Familia HD
@@ -91,7 +99,5 @@ http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/511539.ts
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/585989.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVd9gFhq/Sun-Channel-Logo-2022.png" group-title="✈CULTURA✈",Sun Channel
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/679034.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMyLtjZW/Logo-museum-2017.png" group-title="✈CULTURA✈",MUSEUM TV
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/771892.ts
-p://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/79479.ts
+
 
