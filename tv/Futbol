@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: ESPN PREMIUM
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcTZkWU1NbnJQOGptM2NKdWFrTnE0OTBhc3psN0YxbzJhcVlZYm9TcTV3dg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT SPORTS ARG
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/211363.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT SPORTS ARG HD
+http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36424.ts
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: ESPN PREMIUM
 http://liontv.es:8080/hsgggew4g/sdf42sf22f4/1384512
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: ESPN PREMIUM
@@ -445,10 +450,7 @@ http://livetv-plus.com:8880/live/SebasTv21/TTRVW/149063.ts
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/149064.ts
 #EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="DEPORTES",DEP | TNT SPORTS 3 HD
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19638.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT SPORTS ARG
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/211363.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT SPORTS ARG HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/36424.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/1200px-TNT_Sports_Chile.svg.png" group-title="DEPORTES",DEP | TNT Sports CHI
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/224369.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES",DEP | TVC DEPORTES HD
