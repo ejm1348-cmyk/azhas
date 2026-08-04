@@ -1,22 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712700.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712701.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 FHD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712702.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV | AR
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712703.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV FHD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712704.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Argentina",C5N FHD| AR
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712705.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",CRONICA
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712706.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",Crónica TV  HD| AR
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712707.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712708.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve HD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712709.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece
@@ -117,3 +113,11 @@ http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/772968.ts
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/772969.ts
 #EXTINF:-1 tvg-logo="https://www.cronica.com.ar/files/image/1528/1528011/6977e9ce59d53.png" group-title="Argentina",CM - El Canal de la Música | AR
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/773022.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712701.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV | AR
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712703.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",CRONICA
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712706.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve
+http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712708.ts
