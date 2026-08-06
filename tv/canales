@@ -7,34 +7,21 @@ http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54215.ts
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/47017.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",AR | NET TV
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54165.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",AR | CANAL 26
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54199.ts
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/PakaPaka.ar.png" group-title="ARGENTINA",AR | PAKA PAKA
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19555.ts
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1uXjU4oXRKo1xfBhLLqFuTLNzvDhHw4XUvMOnv7eiR0Px8JFqzJjXQZdptxGcGsA=w240-h480-rw" group-title="ARGENTINA",AR | TELEMAX
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46973.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PÚBLICA HD
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46972.ts
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="ARGENTINA",AR | DEPORTV HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19709.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest?cb=20210525001851&path-prefix=es" group-title="ARGENTINA",AR | GARAGE TV FHD
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/209745.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/America_TV_%282018%29.png" group-title="ARGENTINA",AR | AMÉRICA TV HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/209741.ts
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="ARGENTINA",AR | EL NUEVE SD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/286030.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR | TELEFÉ INTERNACIONAL HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/259317.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="ARGENTINA",AR | C5N
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/242080.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/1200px-A24_%282025%29.svg.png" group-title="ARGENTINA",AR | A24
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/610876.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/langes-1100px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",AR | TN
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/613255.ts
+
+
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/94993d63d73addcc1d1a32dc3100bd07.png" group-title="⭐ CANALES PREMIUM UHD",UHD | IMAGEN TV
 http://liontv.es:8080/hsgggew4g/sdf42sf22f4/347296
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | FX
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/338213
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZJyHjZ/Las-Estrellas-1-1.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | LAS ESTRELLAS
 http://liontv.es:8080/hsgggew4g/sdf42sf22f4/347292
 #EXTINF:-1 tvg-logo="https://archive.org/download/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | Cinema Dinamita HD℠
