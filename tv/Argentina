@@ -11,8 +11,9 @@ http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712702.ts
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712706.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 FHD
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712725.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712741.tsp://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712707.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG҂ Volver @" tvg-logo="https://immaa.xyz/ARGvolvve.png" group-title="TV ARGENTINA",ARG҂ Volver @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/64070
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712710.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV FHD
@@ -25,8 +26,6 @@ http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145334.ts
 http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145339.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="▶️ + ARGENTINA",Argentinísima Satelital (540p)
 http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145347.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="▶️ + ARGENTINA",Azahares Radio Multimedia (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145353.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="▶️ + ARGENTINA",Beats Radio (480p)
 http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145356.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="▶️ + ARGENTINA",Cable Imagen Armstrong (540p) [Not 24/7]
