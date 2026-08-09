@@ -1,9 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MLS 06:" tvg-logo="https://immaa.xyz/mlsstos.png" group-title="MLS",MLS 06:
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/64353
+#EXTINF:-1 tvg-id="" tvg-name="MLS 04:" tvg-logo="https://immaa.xyz/mlsstos.png" group-title="MLS",MLS 04:
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/64351
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN PREMIUM
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNajNiSm9USVdldXM1TUxBV2hZdm8yeFNBT2pEZFgyZFlKVk5lcHgwcGpNRw
 #EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 1 HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="⭐️ZONA ESPN HD PREMIUM⭐️",LAT | ESPN 1 HD.
 http://iptvpremium.ink:55577/plus42286/42286qqww/179202
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://immaa.xyz/LATfoxport2sd.png" group-title="⭐ Deporte Premium HD⭐",ESPN 7
 http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/55984
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 ARG FHD
