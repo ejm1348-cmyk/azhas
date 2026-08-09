@@ -11,227 +11,72 @@ http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/18685
 http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/18686
 #EXTINF:-1 tvg-id="" tvg-name="CUL: TRAVEL VIAJEROS ●" tvg-logo="https://immaa.xyz/VIAJEroos.png" group-title="CULTURA HD ✨",CUL: TRAVEL VIAJEROS ●
 http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/54473
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="ARGENTINA",AR | SUN CHANNEL
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/624049.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="ARGENTINA",AR | CINE
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54215.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/3d3b0-canal9-2016.png/revision/latest/scale-to-width-down/250?cb=20210526193750&path-prefix=es" group-title="ARGENTINA",AR | CANAL 9 SALTA
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/47017.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA",AR | NET TV
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/54165.ts
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/PakaPaka.ar.png" group-title="ARGENTINA",AR | PAKA PAKA
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/19555.ts
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1uXjU4oXRKo1xfBhLLqFuTLNzvDhHw4XUvMOnv7eiR0Px8JFqzJjXQZdptxGcGsA=w240-h480-rw" group-title="ARGENTINA",AR | TELEMAX
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46973.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="ARGENTINA",AR | TV PÚBLICA HD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/46972.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest?cb=20210525001851&path-prefix=es" group-title="ARGENTINA",AR | GARAGE TV FHD
-http://livetv-plus.com:8880/live/SebasTv21/TTRVW/209745.ts
-
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/94993d63d73addcc1d1a32dc3100bd07.png" group-title="⭐ CANALES PREMIUM UHD",UHD | IMAGEN TV
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/347296
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZJyHjZ/Las-Estrellas-1-1.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | LAS ESTRELLAS
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/347292
-#EXTINF:-1 tvg-logo="https://archive.org/download/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="⭐ CANALES PREMIUM UHD",UHD | Cinema Dinamita HD℠
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/353358
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A&E_Network_(Australia)_logo.svg/1200px-A&E_Network_(Australia)_logo.svg.png" group-title="⭐ CANALES PREMIUM UHD",UHD | A&E ®
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/338216
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AMC ®
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/338215
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="⭐ CANALES PREMIUM UHD",UHD | ANIMAL PLANET
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/338178
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AXN®
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/338179
-#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/AZTV-click-logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | AZ CLICK ®
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/338222
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ec28d705801481e5beb86b361da4753c.png" group-title="⭐ CANALES PREMIUM UHD",UHD | Azteca 13
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/347291
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/af54c1b77a4b34a39179b39dba0c1579.png" group-title="⭐ CANALES PREMIUM UHD",UHD |  Azteca 7
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/347295
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="⭐ CANALES PREMIUM UHD",UHD | BOOMERANG
-http://liontv.es:8080/hsgggew4g/sdf42sf22f4/338180
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/7f1171a78ce0780a2142a6eb7bc4f3c8.png" group-title="VENEZUELA",VE | GLOBOVISIÓN
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNazJGTDF1a3JXN09VMzh4QkY5SGtRZ0c3SWM1T3FWMWdTWXhobmw3a0pQQQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jnJvyBC.png" group-title="VENEZUELA",VE | CANAL I
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcEthNU10UVAwbWpZaFZUbXBOdzJVQk92MmRYN3F1aGc5Q1FXWnZhZE9IWg
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11054_7_8175.png.2d6922cbe2fd1aa19b130a1cad1b0079.png" group-title="VENEZUELA",VE | IVC
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbU9CbGlkTXd4YnVydWk3MlJvenZIaEtYNVVIN2hzSkRBblpVSkhzbDZHVA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/on0pazx.png" group-title="VENEZUELA",VE | Telesur
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNZzRrajQ3a2pkaFBuRkpwOWRFNHhBNmlYenUvdTZrQ1kwOFpTZkQ5OE5ZWg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r7k4ohW.png" group-title="VENEZUELA",VE | VE PLUS TV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNclBJLzhxeXk5Z3FibXErdVJ5cU9FU29ldWpwWnhNVWJMWXFid0djZ3Y3RA
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png" group-title="VENEZUELA",VE | VENEVISIÓN SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbkJqTkZvamVBMk9vUmNMSk9SYUtocDhSSTBnUW9IMjR3Y0JRS01iOFNKRg
-#EXTINF:-1 group-title="VENEZUELA",VE | TV Familia SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNanFXVmNFbGFYbGx1dTVtckVhSUswc3RsblNTb0RGYkhuQlh4YkVTS09DOQ
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/0a22deb75e398d7fba22998c4bcc60a2.png" group-title="VENEZUELA",VE | TELEVEN
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNc2RocERRQTRsZDJpNElkbHY4T2FMNFMvSU9wZTZSN3BHZUpKaVBieFh4cA
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/cd5f4b6b4ed118131ea7f2ee71ac1716.png" group-title="VENEZUELA",VE | VENEVISIÓN
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdmhobThhVURBT0RYSHM5REhCL1FucGJnbkpXaEJaSFdKU2dHcTVTNmtqVg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png" group-title="VENEZUELA",VE | MERIDIANO TV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaG5XZTRTV2dnbS9iMW83ckkyNFZzQnVNU3pycHlZY3Y1K29XSVdueThBaA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",VE | TVES
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdVBGOUxQcUZVN0prTU4xVmZobitFcjBiMVBReS92Y2lWWkd0WDd2dnZydg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",UY | VTV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbkNwWVUyS25JOFYvVmVzZ2xlRmdBWTRmV0pQM2pYYVFmNFJ4TlBxWlNFMA
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RYT2gZJ/CANAL-4.jpg" group-title="URUGUAY",UR | Canal 4 FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaVNvY1FMREdoanQ2ZFlvODdHeGN6T2RLTnFDVmR2ZGZPYW5ZOVhuYTR3Uw
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/d/d7/Canal1020142.png/revision/latest?cb=20221007053550" group-title="URUGUAY",UR | CANAL 10 SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdkJvRktHTkNnRjEwbnoraDhNazJoU24zWFZuTzlseXVxdU1ISm80RHk2dg
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png" group-title="URUGUAY",UR | TELEDOCE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbnlGMXkrQ0pjaVVicEJ1OWc1c05SM3N5cGtXRGpLdDZwV3ZmWThBV2lSbg
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/av.png?resize=696%2C435&ssl=1" group-title="URUGUAY",UR | A+V
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcFdTVVhnZG05UEZiNDRUKy9ibEF6eWRLY2pRK1RTMm1WdHUvd1JIUndhVg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",UR | VTV HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdXhMQm5BMUdXMjk3Sm1qeWVxTVhwa2NSTkpTVEo5UFArZXNFYm1ocGpyZA
-#EXTINF:-1 tvg-logo="https://acirn.com.uy//images/afiliaciones/beneficios/12.Canal_12_FrayBentos.png" group-title="URUGUAY",UR | CANAL 12 HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaFlZeHBiaUdmQWhEM3RpVVhIeXpBdUpvVzdqVEFxcWNyMUtvUU9XVlN4dw
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zRnk8fv/GOL-TV.jpg" group-title="URUGUAY",UR | GOL TV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNZ2UzRDVhbElqanQ5anFKYjNITXhCeTM5eFZPVW96ZDg1bzJSQnNMT2c4VQ
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LgzxZXh/WPLUS-TV.jpg" group-title="URUGUAY",UR | VTV PLUS HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbHJxQmJMWnFNeUlORE5ZQ0txN09MVmdTR1g1QlI1VWxuQlR3NEZHT0FiYw
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrHBZm1/VTV-SPORTS.jpg" group-title="URUGUAY",UR | VTV PLUS SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaGhCOHZRZFdkbEtNbmRyY25NVGR1WXRmNmVMcGVZTVE4cGdrVUxRS2lCWg
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhGXsgH/CANAL-10.jpg" group-title="URUGUAY",UR | Canal 10 FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNZ3VYQlg5RHNSQ20rTVpEMFJtRmtrSDJkWjZZZ2ZZSDZsMk42ZUplOGRodw
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhGXsgH/CANAL-10.jpg" group-title="URUGUAY",UR | CANAL 10 HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNazl1cDFYM2tTS0FxSjZFaXlXT2VWc1NNYS9YaG9TbVQrcWlXaXhtNlFBTw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY",UR | VTV PLUS
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcGpUVHZCMEJ1OUl0NUp0L24zNlozVGxVcDl2SG1pVnVsS2UwZ0lMMUI0eQ
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qxBm9dC/TELEVISION-NACIONAL.jpg" group-title="URUGUAY",UR | Canal 5
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcG5EMU5yalNvQndYMkNYVWhPTkZaTFYrZnZWT3I3aE41THlnRldFZ1BhNg
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVCLBPt/UCL-TV.jpg" group-title="URUGUAY",UR | Canal UCL HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdW10Tzl0Ny9oQU91bjArOUI3SFR4cGc5SnBKWEtsUENsM3NlQ0F5TS9EZQ
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbnkF3C/TV-CIUDAD.jpg" group-title="URUGUAY",UR | TV Ciudad SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNc3Bxb1ZRT1htVFlhOXNhMjhVRXI0Y2R0cXNvMytVS05nQW05dVcwS08xKw
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5MHCdHw/LA-RED-TV.jpg" group-title="URUGUAY",UR | La Red HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbXlJcW8vK0ZKQjFiMTZHQThMSWg0RkpzRTArRmpXVWpua3A3TFJ5SXhUOA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Teledoce_2022.png/1200px-Teledoce_2022.png" group-title="URUGUAY",UR | LA TELE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaGRqL3lvTXI5Q2JWeFVyUUxQdFQ5SlZUYXhGOWJ0c0RPT2MzemZXMFNqQw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="PARAGUAY",PY | Paraguay TV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdHNiUVFONkdjYUlsWVFWcUZZUTlZT1hLTlgvSDg2bjN4Rk94cDBWSUszWQ
-#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/5c2c24c195fb88bab50c0632e50e0bdb.png" group-title="PARAGUAY",PY |  Noticias PY
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbmlpKzd2RHBVVC9RZHFFbVRaMm5wOVl0QkdTb1FkbnZqMDhTQ1NGY0VrSg
-#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1-620x350.png" group-title="PARAGUAY",PY | +C9N SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbWk0ZUlSUjFiRkdid29TOTV0SWFML1p1elhUZlRuZDViTDRtVnZMZXRHMQ
-#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/c8d8c3c0801464e2c31d2ec6ffe1d6f7.jpg" group-title="PARAGUAY",PY | Unicanal
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbG9xdUhyUEQ0dU0yQkhsUWVRemlzekQ1Zi96NURkSjVlQ21kenhJdDNrTQ
-#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/b363e844816dcd2f5bf3c8a520e7d8b3.jpg" group-title="PARAGUAY",PY | SNT
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNazJvV3BQUFpRZFZPdXpVc0N4TDhET1JWOHdsWmVKOTgwT1l4cDhiWmoxZA
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png" group-title="PARAGUAY",PY |  Paravision
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcGdhU1UydHJoMVBmaUZHMDNZT0hKYWZWVmtyd1dVTGJXS2lSZ1oyZXNoLw
-#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/9667cdd7b147e56b7ed17270b66f5a3e.png" group-title="PARAGUAY",PY | Telefuturo ►℗
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcDVyL2sxNTBSK3RTZnFGbVNMdXVWeTAxY2Zja1QzUWUyemMveVBnWmMySw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="PARAGUAY",PY | Paravisión
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNZzNXNi81ejF0dVZuRkRkUFh4SzRTTFYyOW01akZQd3lCVzlRa1lEQ2tYSQ
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/daffed346e29c5654f54133d1fc65ccb.png" group-title="PARAGUAY",PY | GEN TV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb0hvbzBhQlZlK2YyNUFCVVVZS25UbkZUQ3N4Nk5ySHM1WWlhc0MzUVNVdQ
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png" group-title="PARAGUAY",PY |  Sur TV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcE84Tk1IUUV2cDlvWkxnYjEwUnQvYUZCS2ZlVDkvVFpKTWlmZ1lVaER3Yw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/640px-CUBAVISION_2017.png" group-title="CUBA",CUB | CUBAVISION
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcEdPOVZpR0g4NlpEbVFBdGVhYnpreDlEbkxjWGlzK2kwQTQ5WU82WDd5OQ
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/multivision-1-logo-black-and-white.png" group-title="CUBA",CUB | MULTIVISION
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdW03L3ZCUiswRHlUbSs1NHdOUDBvazY4YTErTTVmdFQyZ2dTSTVXTW9UYw
-#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-print_color.png" group-title="CUBA",CUB | TELEREBELDE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbnR4cjIwODNvcXZlcm9reGFBSVJtZDV4UStycjErWCtWaXJ1ZXlseDZPSQ
-#EXTINF:-1 tvg-logo="https://www.icrt.gob.cu/wp-content/uploads/2020/12/canal-caribe.png" group-title="CUBA",CUB | TV MARTI
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdHFGY3RMUGs4M1V1T2tyK0JaQ0NETWpQb0hSay92TWZrQ2ZNcVM2bjJWSQ
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/america-tv-logo.png" group-title="CUBA",CUB | AMERICA TV
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbHNack91dGEwM0pJZldiN3RUTDFwcUZHVjJnd05KaDRqWlJGUEtQQ3Vodg
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160616005984/es/530683/5/2597547_CubaMax_TV_LOGO.jpg" group-title="CUBA",CUB | CUBAMAX
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaHdRSkFYbHNudk92QTZscXdDRW8wNW5jQWxYL2RhNWMwRXprRXFkM3Zqaw
-#EXTINF:-1 group-title="CUBA",CUB | CUBAVISION INTERNACIONAL
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaXRKUG02UUVsMWtvOWNjcERoZFluKzFQZFFzblcyZDRhdFhxN2RIY0FCRA
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/curiosity-vod-us.png?raw=true" group-title="CULTURA",CUL | CURIOSITY
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdHJZNTZnTHNFM2t3ZE80cEQ1MU5KQmROZmMvcXdVYXpMNEpIOVdpWE5nSQ
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbldMY3RETTY0YXVWaVJiWEZySHRiYUdydXEwa2YrNFRnWTd1cVcyVGgvRg
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC MEX HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdTVwTkcwNHdVbTBQOGdNL1M1UmhkMjg1bTE0SUFPemJQaGQzV0didDVXKw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURA",CUL | HISTORY 2 HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcTlTaFNoSDRLb2VSMC9OY0d6M3pzMlVWbUJvL2UrcHZnNDdLNlIzMHNuMQ
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s72449_h15_aa.png" group-title="CULTURA",CUL | NAT GEO MUNDO
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaStiMnRMRUdMYmJZV2dnSTFQT2xRWDlOalp0N0FOZURoeWt1SGFlbnNCeg
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcHEyQmIzRkdzenlyQlptTndQZ2p5cDhxNTVMWGxtSm5DNkE5TVFiVUIzRA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H NORTE FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNakRVVlc2VDNyODZPenVIdDZBVkZScGI2OUs0SjJZalg0aU9UbTgxMm5Jbg
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | ANIMAL PLANET HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcE5JbjNneWtkMkpkTzcvQUQzL3ZtMD0
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY WORLD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdEdOUGhyRXpJWlp6cDFZb0JBWE5maz0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H LAT
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdFBodFdNVEFHMFZWQXlIY2YrV0pweGFyeGx1UGlEL0VLMzFhWXp2NUVYcA
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | ANIMAL PLANET SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb2RlbnNxSkVNVkliVVBUMWtYb3BVWWRQV3M2dHdMYlVueXZiaWVQZysrOA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CULTURA",CUL | NAT GEO WILD HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbThTd0VBMFpPTnNROERIdk0rL0FFNkRueFYvVHU2LzlLZmF0MG50QWNIaQ
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/449px-Science_Channel_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY SCIENCE FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcGFHSUgyQkpSVU5iZUNQRFNXR2VZSGV5dEFvZlBQSVk4Z3lMeDhGOGdWYg
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY CHANNEL LAT
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNb1MwMitxYnIvcUNCc2pPeWlZY3l2ekVMS09BSERtZFd3RitXL3ZwY3Bxdw
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY CHANNEL SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbDVzczJBKys5NTZUK0UrY3M1QjNnTWFpRGpKbkJIWE5uVTlTV29JWGpRZg
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY WORLD FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcnBlUzNnU0lJQWtWWnYyM3FFZDVXc29zZlNkMHJZSEdkZVRXMERKZ3Z2ZQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CULTURA",CUL | NAT GEO WILD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcmNBWmpTVE5DTzRJWlRjS08ySzZxYWRqUUJ5KzdJdS9rdXhqVFhwbTV6Qg
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY EN ESPAÑOL HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdXRoOTMvd2NvQ1VjUWNOSElwVlZCWW9sUkUrd0lMKzZsa001UkQwbHNrRw
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | ANIMAL PLANET SUR HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNclJndi9CVDV2eWx1S3lGeXpic3JBR3lhMk92MGNweFpKdUdZK1VHR2J2Qg
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="CULTURA",CUL | HISTORY CHANNEL NORTE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcEZJV00ycm9OSE5CUkZUODhMY0pRUGtidldHRXV2U0I3ckhoUWpQeDR3Nw
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" group-title="CULTURA",CUL | HISTORY CHANNEL
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaVd6N0J2YVZ0MWw2SHdmaTNaSzVFak40Q3pKNkk4ZHRMMU9aYnFZUGVCRQ
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="CULTURA",CUL | LOVE NATURE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbzVzMVpFUThLcmtnNlV5aStTQmpybEwvTDg0c0k3RVNxMlVTWXlQdUdkVQ
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="CULTURA",CUL | DISCOVERY CHANNEL NORTE FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbFcwQUxweXdTRW5wLzlBVTFUYytwYz0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNanFzRDFVV056R1QvN3hFRDV6ci9XeDg3MWhrN0tkQklLUlhyb0NQYWlxeg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CULTURA",CUL | HGTV MEX
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbjEwRnJxN1ZhYVZMTFJnZXVkamZLRE5VaTQyTWE2REdwNzBFR3ErcUVFVQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" group-title="CULTURA",CUL | HISTORY CHANNEL SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNczFnQjRZTllpcldjeGZidjFub1FTeTlJYmloTEMwcFNZcVBsTWkraU1adg
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CULTURA",CUL | DISCOVERY TLC
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNaXBvaEdRQ3hGS0t5SWJVYUIzcGNXUHhaS0lkemNCTTFYQ3JUckk0enpCKw
-#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/discovery-familia_c.png" group-title="CULTURA",CUL | DISCOVERY FAMILIA
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNZ05vKzRYVjgrak1aSW4zbE9GWXBjTzJEUDBMZ0xuZmZ3NGlnOEtjOXlMRQ
-#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY SD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbk9HdkxNZ1pYVWpBYXJsalphbHJFSjVGWjVMaDhRQ2JreFVtcFJEZlJsdQ
-#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcTQrUUNzUld2U2lmTk9UNmNtODhrMnBWbFJCeUJBeUYyT1pVZE9LWDF4Wg
-#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" group-title="CULTURA",CUL | INVESTIGATION DISCOVERY NORTE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbk90d1hIenhoRU9kTzRHWStSRjNFdzU3T0JRS2tTdVhtT1pTcy9oWFZnSA
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURA",CUL | NAT GEO SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdGpwUS9XY3EzTHVlZ25kNzVoN05MM1JvWWVIaEE5WnprMlJkTlloZlZMQQ
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmv0klIagT6caWzrecvYBZ4DkesqGTi6-RUa6JsoiZdElLScNi8NGcyUjr0vqnJD29WQ&usqp=CAU" group-title="CULTURA",CUL | CANAL COCINA
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbmRMZWF0alN2QmN2ZWJVejJRVjZ6SmtreGl6c3ljRXRhZ0Y3cUtXdVptOA
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="CULTURA",CUL | DW AMÉRICA
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcXRBUDRWRlptTTlXSjBkdkcybkhDY1ZEQ1VtVC9GRDQ1bFhoa2J1MU94cA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY TURBO SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNblZDV2ZIMVJjek5TVXBxdWhJeUx5STYxRW4yM0hBZGFGZEJ2UVBtUjBqcw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY TURBO HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbDV3azNRUmFKM0NSdjlWMTMxYkxYNThYdUVoMlowODEwQ1VDZWFqN2kyVQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY H&H SUR FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdFI3Wnh3emw5N2hpWVdqZm9QQmo2SEJidlJiVXNFblFhbFB1dFpQM09BNw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURA",CUL | HISTORY 2 SUR
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcm9KNEJvZWR4RkdpTTFZeFRDQXlNc3RHL1NYdUNpK1Z3eUcxN3VocHcrRA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CULTURA",CUL | HGTV HD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNc3YvYmxFZ1NjaElZU0JmRmtod0tNZStpNE1yRjFyZUZoNEV2d3RIcUFlNQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",CUL | DISCOVERY THEATER SUR FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNak9BMXN4UkMzNzhiTGZUVlIxN2N4K0NlM20vYWh1aUsyZ1RFa0daM2NSMg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURA",CUL | HISTORY 2 SUR FHD
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNa0dBS2VlcDcydDZGS2lJdDZVL1NWcU9QSVB1Y0VubithVHp3UUk1NWxheQ
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURA",CUL | NAT GEO NORTE
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcXJMc1hGWkx3N2FsT3pNQmM4dUFmZWlVbFdNS2YzL0NMT1pSVFBuL2NqTQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/History_En_Espanol_0.png" group-title="CULTURA",CUL | HISTORY EN ESPAÑOL
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNazR0UXdxa0NlejZ1SVFHUW95Q1YrVnAvTlFzVHdlcnc4akZXMXVDcU04QQ
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / UNIVERSAL CHANNEL ● @" tvg-logo="https://immaa.xyz/LAunivvechaan.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / UNIVERSAL CHANNEL ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85118
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / CINE ZONE ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/LAcccnezzonne.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / CINE ZONE ⁽ᴴᴰ⁾
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85119
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / UNIVERSAL COMEDY ● @" tvg-logo="https://immaa.xyz/LAunivvcomedy.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / UNIVERSAL COMEDY ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85120
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / CLARO CINEMA ● @" tvg-logo="https://immaa.xyz/CLAROCINEMA.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / CLARO CINEMA ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85126
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / CINE  FAMILIAR ●" tvg-logo="https://immaa.xyz/CIN_cinfammmiliar.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / CINE  FAMILIAR ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85127
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / TMC  ● ᴴᴰ" tvg-logo="https://immaa.xyz/cin_tccm.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / TMC  ● ᴴᴰ
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85130
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / SHOWTIME Showcase Latino ●" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / SHOWTIME Showcase Latino ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85131
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / SHOWTIME EXTREME Latino ●" tvg-logo="https://static.epg.best/us/ShowtimeExtreme.us.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / SHOWTIME EXTREME Latino ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85133
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / SHOWTIME WEST" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / SHOWTIME WEST
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85134
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / STARZ  FAMILY ●" tvg-logo="https://immaa.xyz/STARZFAMILY.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / STARZ  FAMILY ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85135
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / NETFLIX PELICULAS" tvg-logo="https://immaa.xyz/LAnnnetfffis.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / NETFLIX PELICULAS
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85139
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / AMAZON PRIME VIDEO  ⁽ᴴᴰ⁾" tvg-logo="https://immaa.xyz/LAammmzprmme.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / AMAZON PRIME VIDEO  ⁽ᴴᴰ⁾
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85140
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / GOLDEN PREMIER HD● @" tvg-logo="" group-title="Canales de Películas Premium",Cine ᴴᴰ / GOLDEN PREMIER HD● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85141
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / HBO ● @" tvg-logo="https://immaa.xyz/LAhhbboo.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / HBO ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85142
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / HBO 2 ● @" tvg-logo="https://immaa.xyz/HBO2.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / HBO 2 ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85143
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / STARZ Cinema ●" tvg-logo="https://immaa.xyz/cin_staaacinemmma.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / STARZ Cinema ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85145
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / Starz Encore Western ●" tvg-logo="https://immaa.xyz/StarzEncoreWestern.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / Starz Encore Western ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85147
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / FXM ●" tvg-logo="https://immaa.xyz/LAffffxmmm.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / FXM ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85148
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / STAR CINEMA ●" tvg-logo="https://immaa.xyz/CIN_starcineeema.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / STAR CINEMA ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85149
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / AXN ● @" tvg-logo="https://immaa.xyz/LATaxnnnn.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / AXN ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85152
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ /  CINECANAL ● @" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="Canales de Películas Premium",Cine ᴴᴰ /  CINECANAL ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85153
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / CINEMAX ● @" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / CINEMAX ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85155
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / SYFY CHANNEL ● @" tvg-logo="https://immaa.xyz/LATsyfyy.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / SYFY CHANNEL ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85156
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / PARAMOUNT -● @" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / PARAMOUNT -● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85158
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / SPACE  ● @" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / SPACE  ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85159
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / WARNER CHANNEL -● @" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / WARNER CHANNEL -● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85162
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / FX  ● @" tvg-logo="https://immaa.xyz/LATffx.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / FX  ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85163
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / Universal Premier ● @" tvg-logo="https://immaa.xyz/LAunivvpremmie.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / Universal Premier ● @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85164
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / GOLDEN PLUS HD● @ Premier 2" tvg-logo="https://immaa.xyz/GOLDENPLUSHD.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / GOLDEN PLUS HD● @ Premier 2
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85165
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ /  Multipremier  MP●" tvg-logo="https://immaa.xyz/LAmultippprm.png" group-title="Canales de Películas Premium",Cine ᴴᴰ /  Multipremier  MP●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85166
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / HBO  FAMILY @" tvg-logo="https://immaa.xyz/HBOFAMILY.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / HBO  FAMILY @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85168
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / CINE MEXICANO @" tvg-logo="" group-title="Canales de Películas Premium",Cine ᴴᴰ / CINE MEXICANO @
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85169
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / DHE ●" tvg-logo="https://immaa.xyz/LAddddhheee.png" group-title="Canales de Películas Premium",Cine ᴴᴰ / DHE ●
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85170
+#EXTINF:-1 tvg-id="" tvg-name="Cine ᴴᴰ / EUROPA EUROPA" tvg-logo="https://th.bing.com/th/id/R.3e068ae9efc96a3b5c0ebb5dac2e7f86?rik=0gkg%2bXVlLt2RxA&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="Canales de Películas Premium",Cine ᴴᴰ / EUROPA EUROPA
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/85171
 
