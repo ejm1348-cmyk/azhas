@@ -4,12 +4,9 @@ http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/64353
 #EXTINF:-1 tvg-id="" tvg-name="MLS 04:" tvg-logo="https://immaa.xyz/mlsstos.png" group-title="MLS",MLS 04:
 http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/64351
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN PREMIUM
-http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNajNiSm9USVdldXM1TUxBV2hZdm8yeFNBT2pEZFgyZFlKVk5lcHgwcGpNRw
-#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 1 HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="⭐️ZONA ESPN HD PREMIUM⭐️",LAT | ESPN 1 HD.
-http://iptvpremium.ink:55577/plus42286/42286qqww/179202
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://immaa.xyz/LATfoxport2sd.png" group-title="⭐ Deporte Premium HD⭐",ESPN 7
-http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/55984
+
+
+
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 ARG FHD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdmVmakhoM3BoUXhGeFdmL2ZNc2lNY2VZcUpTVVJxUmFRMlpnbDMrbWY4QQ
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 ARG HD
@@ -25,7 +22,8 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcTZkWU1NbnJQOGptM2NKdWFr
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbG9pczJJWmNrbjBYZWNsNEN2ZXhEdzh1Y3gwK1JQV2czdVAzYlBySFZIVg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",DEP | TNT SPORTS ARG HD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcHVQMGQ3OU9SR0NVK3NUSk43bkdhNUp5ZkptQ1UyOHVoT0Y1b1F2ZVlPSQ
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN PACK",ARG | ESPN PREMIUM
+http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNajNiSm9USVdldXM1TUxBV2hZdm8yeFNBT2pEZFgyZFlKVk5lcHgwcGpNRw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS HD ARG
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNbkhsMEtyMXJOL3l6bCtFdHYvYVQyZVQzdHhUZnBLdEVzOExNcXE0S2RCaQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS HD ARG OP 1
@@ -38,7 +36,8 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNc1pvekNlS1Zwb2N5M1hqazdQ
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNajUyMUxRWEdLK0JIV2dSVG5CYWNpeFlHTUhXcUdaenlHR2ZUcEtHQ2Y3Zg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DEP | DIRECTV SPORTS + SD
 http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdnpIaWs0Y0xxK2NjbVFUZGU2TDBuLzZ3U2hIWjVQbzg0UGVIaVBibEhtRw
-
+#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 1 HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="⭐️ZONA ESPN HD PREMIUM⭐️",LAT | ESPN 1 HD.
+http://iptvpremium.ink:55577/plus42286/42286qqww/179202
 #EXTINF:-1 tvg-id="" tvg-name="LAT:/ ESPN 3 ARG HD ●" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="⭐ Deporte Premium HD⭐",LAT:/ ESPN 3 ARG HD ●
 http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/62645
 #EXTINF:-1 tvg-id="" tvg-name="LAT:/  Fox Sports 1 ARG HD ●" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="⭐ Deporte Premium HD⭐",LAT:/  Fox Sports 1 ARG HD ●
@@ -120,5 +119,6 @@ http://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNdmVmakhoM3BoUXhGeFdmL2ZN
 htt#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="DEPORTES",DEP | ESPN 1 ARG HD
 http://livetv-plus.com:8880/live/SebasTv21/TTRVW/454719.ts
 p://livetv-plus.com:8880/K0dIUThTdlBmTmxZQ3IwNHJYVkFNcjdpU0xVUzJ0TTdVckI3VDNJMXlVaXVReTltaGJPZnJIWHlsT0FOWjZyZw
-
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://immaa.xyz/LATfoxport2sd.png" group-title="⭐ Deporte Premium HD⭐",ESPN 7
+http://ligaperu.com:8080/AndresGarcia04/AndresGarcia04/55984
 
