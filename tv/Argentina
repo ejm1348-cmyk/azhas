@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Argentina",C5N FHD| AR
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712705.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación + | AR
@@ -89,4 +90,7 @@ http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/773022.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
 http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712701.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV | AR
-http://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712703.ts
+htt#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Pinamar- Buenos Aires" tvg-logo="" group-title="⭐️ Argentina Regionales",Canal 3 Pinamar- Buenos Aires
+http://redworld.pro:8880/2703marzo/JVDEPHCPFBRX/359931
+p://tutv.fun/live/GONZALOGIR82/LPMAVRTMD593/712703.ts
+
