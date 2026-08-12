@@ -14,8 +14,7 @@ http://newvdt.org:8080/13mundo2/van10xcz235m/165591.m3u8
 #EXTINF:-1 tvg-id="AMER24" tvg-name="ARG: A24 HD" tvg-logo="http://www.tmsimg.com/assets/s16272_ll_h3_ab.png" group-title="ARGENTINA",ARG: A24 HD
 http://newvdt.org:8080/13mundo2/van10xcz235m/165592.m3u8
 
-#EXTINF:-1 tvg-id="C5NARGH" tvg-name="ARG: C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",ARG: C5N HD
-http://newvdt.org:8080/13mundo2/van10xcz235m/165595.m3u8
+
 
 #EXTINF:-1 tvg-id="CAN26HD" tvg-name="ARG: CANAL 26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFBinX8b_jdpmQ543XC8iPKCOks7Og8lUyQ&s" group-title="ARGENTINA",ARG: CANAL 26
 http://newvdt.org:8080/13mundo2/van10xcz235m/165597.m3u8
