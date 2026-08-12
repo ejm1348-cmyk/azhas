@@ -19,8 +19,7 @@ http://newvdt.org:8080/13mundo2/van10xcz235m/165592.m3u8
 #EXTINF:-1 tvg-id="CAN26HD" tvg-name="ARG: CANAL 26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFBinX8b_jdpmQ543XC8iPKCOks7Og8lUyQ&s" group-title="ARGENTINA",ARG: CANAL 26
 http://newvdt.org:8080/13mundo2/van10xcz235m/165597.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL (á)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGmSmSk9qI-1nZoXenzukhCj9n2m6JCTrCMx9sIdXy8aw=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CANAL (á)
-http://newvdt.org:8080/13mundo2/van10xcz235m/420008.m3u8
+
 
 #EXTINF:-1 tvg-id="AMETV" tvg-name="ARG: America TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpng08KSjYbD1vGcs9DGRS7vPl6Bse4FRZg&s" group-title="ARGENTINA",ARG: America TV FHD
 http://newvdt.org:8080/13mundo2/van10xcz235m/165575.m3u8
@@ -87,7 +86,8 @@ http://newvdt.org:8080/13mundo2/van10xcz235m/165659.m3u8
 http://newvdt.org:8080/13mundo2/van10xcz235m/165660.m3u8
 #EXTINF:-1 tvg-id="TYCINTH" tvg-name="ARG: TYC SPORTS INT" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="ARGENTINA",ARG: TYC SPORTS INT
 http://newvdt.org:8080/13mundo2/van10xcz235m/165658.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="CANAL (á)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGmSmSk9qI-1nZoXenzukhCj9n2m6JCTrCMx9sIdXy8aw=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CANAL (á)
+http://newvdt.org:8080/13mundo2/van10xcz235m/420008.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="QUIERO MUSICA" tvg-logo="https://yt3.googleusercontent.com/RCgPBJ7Jm5Wwfyx49lYbS4k0glQ8gyKx8mITJrJxe1mcq8KN0qaGqgrrY-2Tns64l48_T2uUgA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",QUIERO MUSICA
 http://newvdt.org:8080/13mundo2/van10xcz235m/420009.m3u8
