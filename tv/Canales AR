@@ -1,4 +1,75 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG : Canal 26 HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96d3JBU3JJN01sdWRTdlJLYUU3RmNXST0
+#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG : Canal 26 FHD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnA1cEpES2d6RURpemtMblNuOTRIaz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| AMERICA TV HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96dzFscGpSWVo4Tk5xUGpoR09acU1IMD0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| AMERICA FHD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96eHZuZDYvNUsrWTgyc0htaE9mdlhabz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="🇦🇷 | ARGENTINA",ARG| EL NUEVE HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96eHkrbmtWSkdYNmM4ZklZdytUWE5scz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="🇦🇷 | ARGENTINA",ARG| EL NUEVE FHD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MWdwbHRHcm1vb1o2b3FFV2hrVjFvdz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/640px-Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 | ARGENTINA",ARG| EL TELEFE HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96M2xHUHB6dFhRRUl4V294TjIrM1Vkcz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 | ARGENTINA",ARG| TELEFE SD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MUVBZ3lRZitVeHNVcnV3RzRySnkvbz0
+#EXTINF:-1 tvg-id="" tvg-name="AR: EL TRECE" tvg-logo="http://flx.lat:8080/images/fa016b4219f079b9bba349fd30ed9351.jpg" group-title="🇦🇷 | ARGENTINA",AR: EL TRECE
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OUViblNuWmhyZDdxT1BFWGwxanJ4UT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TRECE  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="🇦🇷 | ARGENTINA",ARG| TRECE  FHD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96LzJ5TFlkVVZ4aHNSeWpBYkplRmt5ST0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuUz1rkJ6uwa6IUeYmvoJvXWXn5VhjVNeAsA&s" group-title="🇦🇷 | ARGENTINA",ARG| 24/7 NOTICIAS HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NUpMMnYvTlpPMWNtYmJ0VlUweVRFYz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION HD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/05/la-nacion-vector-logo.png" group-title="🇦🇷 | ARGENTINA",ARG| LA NACION HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96K1JHUkZ3dUUyMHdVWTZXRFhNMVp1Zz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo-thumbnail.png" group-title="🇦🇷 | ARGENTINA",ARG| VOLVER HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OHRvclFKb3gycGY0a3ZXZ01VclNKQT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 10 HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96K1NiK3h4cHdwMTUrWXBiN1huZkRwTT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/cinear-logo-png_seeklogo-462536.png" group-title="🇦🇷 | ARGENTINA",ARG| CINEAR  HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96d1QrS2NkQ2dzNjFvNXRJVGtxSnFOMD0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| TN NOTICIAS HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96dzAwOTRLMDk4Tk5RcGllbXh4N1pvdz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="https://i.pinimg.com/736x/55/b0/a1/55b0a138943b0c8f4f16253b75baf09a.jpg" group-title="🇦🇷 | ARGENTINA",ARG| CRONICA HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NGdEM21COEdhT2hjb25qd1FtRGdSQT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQflil18QOJFwvAk5RA_ihMoJb2HMx68Ta0A&s" group-title="🇦🇷 | ARGENTINA",ARG| A24 HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NHJuMWgvdjBrL0ZmZ1hmMW9mSEUzWT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23 HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo.png" group-title="🇦🇷 | ARGENTINA",ARG| CN23 HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MGx2Z1dUWUthdGlWUnBGR0tnKy9Tbz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ENCUENTRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXokMAG55aOfeG2q3mJqp6W6IW5nfBIVzs7Q&s" group-title="🇦🇷 | ARGENTINA",ARG| ENCUENTRO HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MEFud3BBck40UDNPVWVhTjRyUzRxbz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 26 HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnVMN0ErMXhHNTBiZTA2dWorVWx4az0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="🇦🇷 | ARGENTINA",ARG| TV PUBLICA  HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MmVZUDlNOTNXTGFURlpOUDBsbXNqOD0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GARAGE  HD" tvg-logo="https://e7.pngegg.com/pngimages/926/901/png-clipart-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem.png" group-title="🇦🇷 | ARGENTINA",ARG| GARAGE  HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OG5BcmU3NmF1TDduT1QzS0llWWgzaz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA PAMPA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Arpampa.PNG" group-title="🇦🇷 | ARGENTINA",ARG| LA PAMPA TV HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MkgxcnQrU0JRR1Nwd2ZWTWwrUWVnRT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 13 MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvMkH98cyGWcC1yCPXSHGeDsyfsJLkgkn0aBPEQ0SsQ&s" group-title="🇦🇷 | ARGENTINA",ARG| 13 MAX HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MkhGOUgwdVdDVnQrZFJSUkNua1lyND0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESTRELLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="🇦🇷 | ARGENTINA",ARG| ESTRELLA TV HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96Mmt5ZkYyVnNqTnFyTllEQzBXY0Jscz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 22 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Canal_22_Logo_2011.jpg" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 22 HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OTJhQWZvZkZvU2k0N3d4UHlaM2l3ND0
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="🇦🇷 | ARGENTINA",ARG | TNT SPORTS  FHD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OWJaWExXMlFBSmpGOWhNVVF5Wis0ST0
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS SD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96eVZXRlpoYm04K29pUTZYMEVsYmhYdz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS INTERNA." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS INTERNA.
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NUNDRHlzZU14T3hLK3RLakJiQUFVUT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS  HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96N0IzVU1WaWE1blRqa1hQa0lwVno5RT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="🇦🇷 | ARGENTINA",ARG : DEPORTV  HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnROV29oeUZzeHZMUHN0bGJtVmwvaz0
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 | ARGENTINA",CANAL 4
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnZBZmNCRVhWSjdSSWpMWEltUmtmWT0
+#EXTINF:-1 tvg-id="" tvg-name="Jujuy tv" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 | ARGENTINA",Jujuy tv
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MnlTSXZUU2lGdnZBVFllemZyQ1pEQT0
+#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| C5N HD
+http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96N2tIOFluak1Fck93M3VSK3VOR2JrVT0
+
 #EXTINF:-1 tvg-id="" tvg-name="5TV Corrientes (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="▶️ + ARGENTINA",5TV Corrientes (480p) [Not 24/7]
 http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145334.ts
 #EXTINF:-1 tvg-id="" tvg-name="13Max Televisión (1080p)" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="▶️ + ARGENTINA",13Max Televisión (1080p)
