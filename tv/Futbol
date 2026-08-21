@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4818
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEFE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4807
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM",ESPN HD
 http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96eHhPRTg1ZzBVLzg5YVhEaWhvZ0YyST0
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="⚽ | ESPN PREMIUM",ESPN SD
