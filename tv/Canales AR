@@ -1,246 +1,222 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="LAME | ARGENTINA VIP",ARG: C5N
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4728
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA 24
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4722
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA VIP",ARG: AMC
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4721
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="LAME | ARGENTINA VIP",ARG: A&E
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4720
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| C5N HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96N2tIOFluak1Fck93M3VSK3VOR2JrVT0
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| TN NOTICIAS HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96dzAwOTRLMDk4Tk5RcGllbXh4N1pvdz0
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4723
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ARGENTINISIMA" tvg-logo="https://docdog.top/logo/countries/argentina/ARGENTINISIMA.png" group-title="LAME | ARGENTINA VIP",ARG: ARGENTINISIMA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4724
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="LAME | ARGENTINA VIP",ARG: AXN
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4725
+#EXTINF:-1 tvg-id="" tvg-name="ARG: BABY TV" tvg-logo="https://docdog.top/logo/countries/argentina/babytv.png" group-title="LAME | ARGENTINA VIP",ARG: BABY TV
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4726
+#EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="LAME | ARGENTINA VIP",ARG: BOOMERANG
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4727
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION HD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/05/la-nacion-vector-logo.png" group-title="🇦🇷 | ARGENTINA",ARG| LA NACION HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96K1JHUkZ3dUUyMHdVWTZXRFhNMVp1Zz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG : Canal 26 HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96d3JBU3JJN01sdWRTdlJLYUU3RmNXST0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| AMERICA TV HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96dzFscGpSWVo4Tk5xUGpoR09acU1IMD0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="🇦🇷 | ARGENTINA",ARG| TV PUBLICA  HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MmVZUDlNOTNXTGFURlpOUDBsbXNqOD0
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="🇦🇷 | ARGENTINA",ARG| EL NUEVE FHD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MWdwbHRHcm1vb1o2b3FFV2hrVjFvdz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/640px-Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 | ARGENTINA",ARG| EL TELEFE HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96M2xHUHB6dFhRRUl4V294TjIrM1Vkcz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG : Canal 26 FHD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnA1cEpES2d6RURpemtMblNuOTRIaz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| AMERICA FHD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96eHZuZDYvNUsrWTgyc0htaE9mdlhabz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="🇦🇷 | ARGENTINA",ARG| EL NUEVE HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96eHkrbmtWSkdYNmM4ZklZdytUWE5scz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 | ARGENTINA",ARG| TELEFE SD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MUVBZ3lRZitVeHNVcnV3RzRySnkvbz0
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL TRECE" tvg-logo="http://flx.lat:8080/images/fa016b4219f079b9bba349fd30ed9351.jpg" group-title="🇦🇷 | ARGENTINA",AR: EL TRECE
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OUViblNuWmhyZDdxT1BFWGwxanJ4UT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TRECE  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="🇦🇷 | ARGENTINA",ARG| TRECE  FHD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96LzJ5TFlkVVZ4aHNSeWpBYkplRmt5ST0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuUz1rkJ6uwa6IUeYmvoJvXWXn5VhjVNeAsA&s" group-title="🇦🇷 | ARGENTINA",ARG| 24/7 NOTICIAS HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NUpMMnYvTlpPMWNtYmJ0VlUweVRFYz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo-thumbnail.png" group-title="🇦🇷 | ARGENTINA",ARG| VOLVER HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OHRvclFKb3gycGY0a3ZXZ01VclNKQT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 10 HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96K1NiK3h4cHdwMTUrWXBiN1huZkRwTT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/cinear-logo-png_seeklogo-462536.png" group-title="🇦🇷 | ARGENTINA",ARG| CINEAR  HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96d1QrS2NkQ2dzNjFvNXRJVGtxSnFOMD0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="https://i.pinimg.com/736x/55/b0/a1/55b0a138943b0c8f4f16253b75baf09a.jpg" group-title="🇦🇷 | ARGENTINA",ARG| CRONICA HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NGdEM21COEdhT2hjb25qd1FtRGdSQT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQflil18QOJFwvAk5RA_ihMoJb2HMx68Ta0A&s" group-title="🇦🇷 | ARGENTINA",ARG| A24 HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NHJuMWgvdjBrL0ZmZ1hmMW9mSEUzWT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23 HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo.png" group-title="🇦🇷 | ARGENTINA",ARG| CN23 HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MGx2Z1dUWUthdGlWUnBGR0tnKy9Tbz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| ENCUENTRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXokMAG55aOfeG2q3mJqp6W6IW5nfBIVzs7Q&s" group-title="🇦🇷 | ARGENTINA",ARG| ENCUENTRO HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MEFud3BBck40UDNPVWVhTjRyUzRxbz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 26 HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnVMN0ErMXhHNTBiZTA2dWorVWx4az0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| GARAGE  HD" tvg-logo="https://e7.pngegg.com/pngimages/926/901/png-clipart-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem.png" group-title="🇦🇷 | ARGENTINA",ARG| GARAGE  HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OG5BcmU3NmF1TDduT1QzS0llWWgzaz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| LA PAMPA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Arpampa.PNG" group-title="🇦🇷 | ARGENTINA",ARG| LA PAMPA TV HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MkgxcnQrU0JRR1Nwd2ZWTWwrUWVnRT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| 13 MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvMkH98cyGWcC1yCPXSHGeDsyfsJLkgkn0aBPEQ0SsQ&s" group-title="🇦🇷 | ARGENTINA",ARG| 13 MAX HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MkhGOUgwdVdDVnQrZFJSUkNua1lyND0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| ESTRELLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="🇦🇷 | ARGENTINA",ARG| ESTRELLA TV HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96Mmt5ZkYyVnNqTnFyTllEQzBXY0Jscz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 22 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Canal_22_Logo_2011.jpg" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 22 HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OTJhQWZvZkZvU2k0N3d4UHlaM2l3ND0
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="🇦🇷 | ARGENTINA",ARG | TNT SPORTS  FHD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96OWJaWExXMlFBSmpGOWhNVVF5Wis0ST0
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS SD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96eVZXRlpoYm04K29pUTZYMEVsYmhYdz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS INTERNA." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS INTERNA.
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NUNDRHlzZU14T3hLK3RLakJiQUFVUT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS  HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96N0IzVU1WaWE1blRqa1hQa0lwVno5RT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="🇦🇷 | ARGENTINA",ARG : DEPORTV  HD
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnROV29oeUZzeHZMUHN0bGJtVmwvaz0
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 | ARGENTINA",CANAL 4
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96NnZBZmNCRVhWSjdSSWpMWEltUmtmWT0
-#EXTINF:-1 tvg-id="" tvg-name="Jujuy tv" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 | ARGENTINA",Jujuy tv
-http://miotv.cc:8080/dUEyc2dnTllHM2RrRmVGRHpZbC96MnlTSXZUU2lGdnZBVFllemZyQ1pEQT0
-#EXTINF:-1 tvg-id="" tvg-name="5TV Corrientes (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="▶️ + ARGENTINA",5TV Corrientes (480p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145334.ts
-#EXTINF:-1 tvg-id="" tvg-name="13Max Televisión (1080p)" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="▶️ + ARGENTINA",13Max Televisión (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145335.ts
-#EXTINF:-1 tvg-id="" tvg-name="Aire de Santa Fe (1080p)" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="▶️ + ARGENTINA",Aire de Santa Fe (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145339.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlternaTV (720p)" tvg-logo="http://flx.lat:8080/images/2bdd0ea3f8f3c5f0e1c0bd6a47d8bf7e.png" group-title="▶️ + ARGENTINA",AlternaTV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145340.ts
-#EXTINF:-1 tvg-id="" tvg-name="Antena 91 (720p)" tvg-logo="https://i.imgur.com/HAJxHcV.png" group-title="▶️ + ARGENTINA",Antena 91 (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145346.ts
-#EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital (540p)" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="▶️ + ARGENTINA",Argentinísima Satelital (540p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145347.ts
-#EXTINF:-1 tvg-id="" tvg-name="AVC HD (720p)" tvg-logo="https://i.imgur.com/8CT4y1O.png" group-title="▶️ + ARGENTINA",AVC HD (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145351.ts
-#EXTINF:-1 tvg-id="" tvg-name="Azahares Radio Multimedia (720p)" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="▶️ + ARGENTINA",Azahares Radio Multimedia (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145353.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bayres TV (720p)" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="▶️ + ARGENTINA",Bayres TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145355.ts
-#EXTINF:-1 tvg-id="" tvg-name="Beats Radio (480p)" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="▶️ + ARGENTINA",Beats Radio (480p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145356.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cable Imagen Armstrong (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="▶️ + ARGENTINA",Cable Imagen Armstrong (540p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145358.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 de Ushuaia (1080p)" tvg-logo="http://flx.lat:8080/images/f6bdd9fe4400351ed8ecd0ced4ef3b2b.png" group-title="▶️ + ARGENTINA",Canal 2 de Ushuaia (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145363.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Misiones (1080p)" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="▶️ + ARGENTINA",Canal 2 Misiones (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145365.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Salta (480p)" tvg-logo="https://i.imgur.com/kwOIiaO.png" group-title="▶️ + ARGENTINA",Canal 2 Salta (480p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145367.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 La Pampa (1080p)" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="▶️ + ARGENTINA",Canal 3 La Pampa (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145370.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Las Heras (720p)" tvg-logo="https://i.imgur.com/bd2afET.png" group-title="▶️ + ARGENTINA",Canal 3 Las Heras (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145371.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Esquel (540p)" tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="▶️ + ARGENTINA",Canal 4 Esquel (540p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145375.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas (576p)" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="▶️ + ARGENTINA",Canal 4 Posadas (576p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145377.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Pico Truncado (540p)" tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="▶️ + ARGENTINA",Canal 5 Pico Truncado (540p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145380.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Santa Fe (240p)" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="▶️ + ARGENTINA",Canal 5 Santa Fe (240p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145381.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Posadas (1080p)" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="▶️ + ARGENTINA",Canal 6 Posadas (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145386.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy (720p)" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="▶️ + ARGENTINA",Canal 7 Jujuy (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145388.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Neuquén (1080p)" tvg-logo="http://flx.lat:8080/images/b9622911a4b94596571951feb490225b.png" group-title="▶️ + ARGENTINA",Canal 7 Neuquén (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145389.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Santiago del Estero (720p)" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="▶️ + ARGENTINA",Canal 7 Santiago del Estero (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145391.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral (720p)" tvg-logo="http://flx.lat:8080/images/a456319d2e4ce77e0ba18041e8761682.png" group-title="▶️ + ARGENTINA",Canal 9 Litoral (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145396.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10 de Junín (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="▶️ + ARGENTINA",Canal 10 de Junín (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145403.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 de la Costa (720p)" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="▶️ + ARGENTINA",Canal 11 de la Costa (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145411.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="▶️ + ARGENTINA",Canal 13 Jujuy TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145415.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja (480p)" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="▶️ + ARGENTINA",Canal 13 La Rioja (480p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145416.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 34 San Juan (720p)" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="▶️ + ARGENTINA",Canal 34 San Juan (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145422.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal E (720p)" tvg-logo="http://flx.lat:8080/images/d602be28d27ff88309a80b89d59aef31.jpg" group-title="▶️ + ARGENTINA",Canal E (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145436.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Provincial (360p)" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="▶️ + ARGENTINA",Canal Provincial (360p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145439.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Santa María (360p)" tvg-logo="http://flx.lat:8080/images/52eeb7887fc769cc4fb249fab77bd282.jpg" group-title="▶️ + ARGENTINA",Canal Santa María (360p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145441.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caribbean Advantage TV (1080p)" tvg-logo="http://flx.lat:8080/images/ecd2b1079bb4764d8dc18a83fdf8c9e7.png" group-title="▶️ + ARGENTINA",Caribbean Advantage TV (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145446.ts
-#EXTINF:-1 tvg-id="" tvg-name="Catamarca TV (720p)" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="▶️ + ARGENTINA",Catamarca TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145450.ts
-#EXTINF:-1 tvg-id="" tvg-name="Celta TV (240p)" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="▶️ + ARGENTINA",Celta TV (240p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145451.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chaco TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="▶️ + ARGENTINA",Chaco TV (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145453.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chilecito TV (480p)" tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="▶️ + ARGENTINA",Chilecito TV (480p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145455.ts
-#EXTINF:-1 tvg-id="" tvg-name="CN3 Pinamar (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="▶️ + ARGENTINA",CN3 Pinamar (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145462.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV (720p)" tvg-logo="http://flx.lat:8080/images/f4d9b5d97e753fe94d410f6965a5041a.png" group-title="▶️ + ARGENTINA",Cosmos TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145467.ts
-#EXTINF:-1 tvg-id="" tvg-name="CPEtv (720p)" tvg-logo="https://i.imgur.com/zFgbobO.png" group-title="▶️ + ARGENTINA",CPEtv (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145468.ts
-#EXTINF:-1 tvg-id="" tvg-name="DW Español (1080p)" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="▶️ + ARGENTINA",DW Español (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145483.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eco TV (720p)" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="▶️ + ARGENTINA",Eco TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145484.ts
-#EXTINF:-1 tvg-id="" tvg-name="Enlace (720p)" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="▶️ + ARGENTINA",Enlace (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145497.ts
-#EXTINF:-1 tvg-id="" tvg-name="EWTN el Canal Católico (720p) [Not 24/7]" tvg-logo="http://flx.lat:8080/images/ba051678664a379e594d9623b4806fec.png" group-title="▶️ + ARGENTINA",EWTN el Canal Católico (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145500.ts
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV Latin America" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="▶️ + ARGENTINA",Garage TV Latin America
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145505.ts
-#EXTINF:-1 tvg-id="" tvg-name="Global TV (1080p)" tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="▶️ + ARGENTINA",Global TV (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145507.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama (1080p)" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="▶️ + ARGENTINA",Kanal D Drama (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145512.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lapacho TV Canal 11 (720p)" tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="▶️ + ARGENTINA",Lapacho TV Canal 11 (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145515.ts
-#EXTINF:-1 tvg-id="" tvg-name="Litus TV (720p)" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="▶️ + ARGENTINA",Litus TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145520.ts
-#EXTINF:-1 tvg-id="" tvg-name="Magic Kids (486p)" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="▶️ + ARGENTINA",Magic Kids (486p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145523.ts
-#EXTINF:-1 tvg-id="" tvg-name="Malbec Play (1080p)" tvg-logo="http://flx.lat:8080/images/c90a918b859bd1e56cf99af6246b128e.png" group-title="▶️ + ARGENTINA",Malbec Play (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145524.ts
-#EXTINF:-1 tvg-id="" tvg-name="Más FM 95.9 (720p)" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="▶️ + ARGENTINA",Más FM 95.9 (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145525.ts
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV (720p)" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="▶️ + ARGENTINA",Metro TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145530.ts
-#EXTINF:-1 tvg-id="" tvg-name="Milennio TV (720p)" tvg-logo="http://flx.lat:8080/images/7bab5478b84a7aa71f16938cc63ed60a.jpg" group-title="▶️ + ARGENTINA",Milennio TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145533.ts
-#EXTINF:-1 tvg-id="" tvg-name="Misiones Cuatro (480p)" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="▶️ + ARGENTINA",Misiones Cuatro (480p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145534.ts
-#EXTINF:-1 tvg-id="" tvg-name="Neo TV (432p)" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="▶️ + ARGENTINA",Neo TV (432p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145537.ts
-#EXTINF:-1 tvg-id="" tvg-name="Neox TV (480p)" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="▶️ + ARGENTINA",Neox TV (480p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145538.ts
-#EXTINF:-1 tvg-id="" tvg-name="NET TV (720p)" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="▶️ + ARGENTINA",NET TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145539.ts
-#EXTINF:-1 tvg-id="" tvg-name="NG Federal (720p)" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="▶️ + ARGENTINA",NG Federal (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145540.ts
-#EXTINF:-1 tvg-id="" tvg-name="Platzi TV (1080p)" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="▶️ + ARGENTINA",Platzi TV (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145547.ts
-#EXTINF:-1 tvg-id="" tvg-name="Play Television (720p)" tvg-logo="http://flx.lat:8080/images/32a590b0ae1c10ee0bf7139e8a60e9db.jpg" group-title="▶️ + ARGENTINA",Play Television (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145548.ts
-#EXTINF:-1 tvg-id="" tvg-name="Power Max Radio TV (720p)" tvg-logo="http://flx.lat:8080/images/d61b2c8f9c291cd6be9d2fc19f63c662.jpg" group-title="▶️ + ARGENTINA",Power Max Radio TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145550.ts
-#EXTINF:-1 tvg-id="" tvg-name="PowerHD (720p)" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="▶️ + ARGENTINA",PowerHD (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145551.ts
-#EXTINF:-1 tvg-id="" tvg-name="Quatro TV (540p)" tvg-logo="https://i.imgur.com/fhHFGwv.png" group-title="▶️ + ARGENTINA",Quatro TV (540p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145552.ts
-#EXTINF:-1 tvg-id="" tvg-name="Radio Realpolitik (720p)" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="▶️ + ARGENTINA",Radio Realpolitik (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145556.ts
-#EXTINF:-1 tvg-id="" tvg-name="Radio Yguazú TV (480p)" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="▶️ + ARGENTINA",Radio Yguazú TV (480p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145559.ts
-#EXTINF:-1 tvg-id="" tvg-name="Radiocanal San Francisco (1080p)" tvg-logo="http://flx.lat:8080/images/3aef422fbab88fae10959b6f171ea9a8.png" group-title="▶️ + ARGENTINA",Radiocanal San Francisco (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145560.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN Mas" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="▶️ + ARGENTINA",RCN Mas
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145563.ts
-#EXTINF:-1 tvg-id="" tvg-name="San Pedro TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="▶️ + ARGENTINA",San Pedro TV (1080p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145568.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sicardi TV (720p)" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="▶️ + ARGENTINA",Sicardi TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145579.ts
-#EXTINF:-1 tvg-id="" tvg-name="TeleCinco Trelew (240p)" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="▶️ + ARGENTINA",TeleCinco Trelew (240p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145590.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telenord (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="▶️ + ARGENTINA",Telenord (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145605.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telenord Corrientes (1080p) [Not 24/7]" tvg-logo="" group-title="▶️ + ARGENTINA",Telenord Corrientes (1080p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145606.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tevex (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="▶️ + ARGENTINA",Tevex (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145612.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tropical Music TV (720p)" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="▶️ + ARGENTINA",Tropical Music TV (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145620.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Maná Argentina (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="▶️ + ARGENTINA",TV Maná Argentina (576p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145621.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Solidaria (576p)" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="▶️ + ARGENTINA",TV Solidaria (576p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145623.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="▶️ + ARGENTINA",TVE Star HD (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145624.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVU Universidad Nacional de La Plata (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="▶️ + ARGENTINA",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145628.ts
-#EXTINF:-1 tvg-id="" tvg-name="Uniteve (720p) [Not 24/7]" tvg-logo="http://flx.lat:8080/images/5361e5b12d1296eb181d973065cc70e2.jpg" group-title="▶️ + ARGENTINA",Uniteve (720p) [Not 24/7]
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145631.ts
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas Latin America (720p)" tvg-logo="http://flx.lat:8080/images/d22f029b44b7728d3bbae3127f77c055.png" group-title="▶️ + ARGENTINA",Las Estrellas Latin America (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145516.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNAM Transmedia (1080p)" tvg-logo="http://flx.lat:8080/images/c04bf678045035bd404e8ce8aec10d5f.png" group-title="▶️ + ARGENTINA",UNAM Transmedia (1080p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145629.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVQ Sports (720p)" tvg-logo="http://flx.lat:8080/images/5644b5595580bab147d2e086d4211d53.png" group-title="▶️ + ARGENTINA",TVQ Sports (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145627.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVQ (720p)" tvg-logo="http://flx.lat:8080/images/765eecdb162e55eeef4edbf915f75fc4.png" group-title="▶️ + ARGENTINA",TVQ (720p)
-http://flexlive.lat:8080/live/zno.10858/69gkBL8JRbRA/145626.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA VIP",ARG: EL TRECE (CANAL 13)
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4729
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 21
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4730
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 26
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4731
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26 NOTICIAS" tvg-logo="https://docdog.top/logo/countries//argentina/canal-26-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 26 NOTICIAS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4732
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 4" tvg-logo="https://docdog.top/logo/countries//argentina/canal-4-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 4
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4733
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA VIP",ARG: EL NUEVE (CANAL 9)
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4734
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL 9 SALTA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4735
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA CIUDAD" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELACIUDAD.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL DE LA CIUDAD
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4736
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA MUSICA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELAMUSICA.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL DE LA MUSICA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4737
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="LAME | ARGENTINA VIP",ARG: CARTOON NETWORK
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4738
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEAR" tvg-logo="https://docdog.top/logo/countries//argentina/cine-ar-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CINEAR
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4739
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA VIP",ARG: CINECANAL
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4740
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA VIP",ARG: CINEMAX
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4741
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CIUDAD MAGAZINE" tvg-logo="https://docdog.top/logo/countries/argentina/ciudadmagazine.png" group-title="LAME | ARGENTINA VIP",ARG: CIUDAD MAGAZINE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4742
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN" tvg-logo="https://docdog.top/logo/countries/argentina/cnnespanol.png" group-title="LAME | ARGENTINA VIP",ARG: CNN
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4743
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN EN ESPANIOL" tvg-logo="https://docdog.top/logo/countries//argentina/cnn-en-espanol-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CNN EN ESPANIOL
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4744
+#EXTINF:-1 tvg-id="" tvg-name="ARG: COMEDY" tvg-logo="https://docdog.top/logo/countries/argentina/KSCOMEDY.jpg" group-title="LAME | ARGENTINA VIP",ARG: COMEDY
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4745
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CRONICA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4746
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="LAME | ARGENTINA VIP",ARG: DEPORTV FHD
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4747
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4748
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS +
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4749
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS 2
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4750
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="LAME | ARGENTINA VIP",ARG: DISNEY
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4751
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY JUNIOR" tvg-logo="https://asiagrandiptv.us/logo/disneyjunior.png" group-title="LAME | ARGENTINA VIP",ARG: DISNEY JUNIOR
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4752
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY XD" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="LAME | ARGENTINA VIP",ARG: DISNEY XD
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4753
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DW" tvg-logo="https://docdog.top/logo/countries/argentina/dw.png" group-title="LAME | ARGENTINA VIP",ARG: DW
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4754
+#EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="https://docdog.top/logo/countries/argentina/E!.png" group-title="LAME | ARGENTINA VIP",ARG: E!
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4755
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="LAME | ARGENTINA VIP",ARG: ENCUENTRO
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4756
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4757
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 2
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4758
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 3
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4759
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN+
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4760
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA VIP",ARG: EUROPA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4761
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FILM &AMP; ARTS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4762
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="LAME | ARGENTINA VIP",ARG: FOX NEWS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4763
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 1
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4764
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 2
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4765
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 3
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4766
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS PREMIUM
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4767
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FX
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4768
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GARAGE" tvg-logo="https://docdog.top/logo/countries/argentina/garagetv.png" group-title="LAME | ARGENTINA VIP",ARG: GARAGE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4769
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GLITZ" tvg-logo="https://docdog.top/logo/countries//argentina/glitz-ar.png" group-title="LAME | ARGENTINA VIP",ARG: GLITZ
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4770
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: GOLF CHANNEL
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4771
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOURMET" tvg-logo="https://docdog.top/logo/countries//argentina/el-gourmet-ar.png" group-title="LAME | ARGENTINA VIP",ARG: GOURMET
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4772
+#EXTINF:-1 tvg-id="" tvg-name="ARG: H2" tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="LAME | ARGENTINA VIP",ARG: H2
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4773
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4774
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO 2
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4775
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO FAMILY
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4776
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO SIGNATURE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4777
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HISTORY
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4778
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HTV
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4779
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LIFETIME" tvg-logo="https://docdog.top/logo/countries//argentina/lifetime-ar.png" group-title="LAME | ARGENTINA VIP",ARG: LIFETIME
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4780
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="LAME | ARGENTINA VIP",ARG: LN
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4781
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAS CHIC" tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MAS CHIC
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4782
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: HBO Mundi
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4783
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO XTREME" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: HBO XTREME
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4784
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="LAME | ARGENTINA VIP",ARG: MAX UP
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4785
+#EXTINF:-1 tvg-id="" tvg-name="ARG: METRO" tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="LAME | ARGENTINA VIP",ARG: METRO
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4786
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MTV
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4787
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MTV HITS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4788
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MUCH MUSIC" tvg-logo="https://docdog.top/logo/countries/argentina/muchmusic.png" group-title="LAME | ARGENTINA VIP",ARG: MUCH MUSIC
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4789
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MUSIC TOP" tvg-logo="https://docdog.top/logo/countries/argentina/musictop.png" group-title="LAME | ARGENTINA VIP",ARG: MUSIC TOP
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4790
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO" tvg-logo="https://docdog.top/logo/countries//argentina/nat-geo-kids-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NAT GEO
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4791
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NICKELODEON
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4792
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON JR" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NICKELODEON JR
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4793
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PAKA PAKA" tvg-logo="https://docdog.top/logo/countries//argentina/pakapaka-ar.png" group-title="LAME | ARGENTINA VIP",ARG: PAKA PAKA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4794
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="LAME | ARGENTINA VIP",ARG: PARAMOUNT
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4795
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="LAME | ARGENTINA VIP",ARG: PX SPORTS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4796
+#EXTINF:-1 tvg-id="" tvg-name="ARG: QUIERO MUSICA" tvg-logo="https://docdog.top/logo/countries//argentina/quiero-musica-en-mi-idioma-ar.png" group-title="LAME | ARGENTINA VIP",ARG: QUIERO MUSICA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4797
+#EXTINF:-1 tvg-id="" tvg-name="ARG: RAI" tvg-logo="https://docdog.top/logo/countries/argentina/rai.png" group-title="LAME | ARGENTINA VIP",ARG: RAI
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4798
+#EXTINF:-1 tvg-id="" tvg-name="ARG: RURAL" tvg-logo="https://docdog.top/logo/countries//argentina/canal-rural-ar.png" group-title="LAME | ARGENTINA VIP",ARG: RURAL
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4799
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SENADO" tvg-logo="https://docdog.top/logo/countries/argentina/SENADO.png" group-title="LAME | ARGENTINA VIP",ARG: SENADO
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4800
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SONY
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4801
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SPACE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4802
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA VIP",ARG: STUDIO UNIVERSAL
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4803
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SYFY
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4804
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TBS VERY FUNNY
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4805
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="https://docdog.top/logo/countries//argentina/tcm-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TCM
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4806
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEFE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4807
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMAX
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4808
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMUNDO
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4809
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="LAME | ARGENTINA VIP",ARG: TELESUR
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4810
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TELEVISION PUBLICA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4811
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TN
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4812
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4813
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SERIES
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4814
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SPORTS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4815
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TOONCAST" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TOONCAST
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4816
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TRUTV" tvg-logo="https://docdog.top/logo/countries//argentina/tru-tv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TRUTV
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4817
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4818
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV5 MONDE" tvg-logo="https://docdog.top/logo/countries/argentina/TVMONDE.png" group-title="LAME | ARGENTINA VIP",ARG: TV5 MONDE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4819
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="LAME | ARGENTINA VIP",ARG: TVE
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4820
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: Tyc sports Internacional
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4821
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TYC SPORTS
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4822
+#EXTINF:-1 tvg-id="" tvg-name="ARG: UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA VIP",ARG: UNIVERSAL
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4823
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="https://docdog.top/logo/countries/argentina/vh1.png" group-title="LAME | ARGENTINA VIP",ARG: VH1
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4824
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER" tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="LAME | ARGENTINA VIP",ARG: VOLVER
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4825
+#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: WARNER
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4826
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STAR CHANNEL" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: STAR CHANNEL
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4827
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: ESPN PREMIUM
+http://31.43.191.125:8080/vip9441783360626/321d30e96548/4828
