@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 26  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA",ARG | Canal 26  HD
+http://liontv.es:8080/RobertoChava/akvca8/334405
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l C5N FHD" tvg-logo="https://i.imgur.com/fVPjvgf.png" group-title="ARGENTINA",ARGENTINA l C5N FHD
+http://liontv.es:8080/RobertoChava/akvca8/334340
 #EXTINF:-1 tvg-id="" tvg-name="AR | LN +" tvg-logo="http://live.detodotvplay.com:80/images/jkDf-QiMjV7brA6RQkqlNE58WimsZef2vec-nzRyuS95ljMAC-SEmcYfuwRcIkpP.png" group-title="ARGENTINA",AR | LN +
 http://liontv.es:8080/RobertoChava/akvca8/1978218
 #EXTINF:-1 tvg-id="" tvg-name="AR | A24" tvg-logo="https://www.lyngsat.com/logo/flag/az/ar.png" group-title="ARGENTINA",AR | A24
@@ -23,8 +27,7 @@ http://liontv.es:8080/RobertoChava/akvca8/334271
 http://liontv.es:8080/RobertoChava/akvca8/334352
 #EXTINF:-1 tvg-id="" tvg-name="ARG |  Canal 26 Noticias HD" tvg-logo="https://i.imgur.com/7R7EcjP.png" group-title="ARGENTINA",ARG |  Canal 26 Noticias HD
 http://liontv.es:8080/RobertoChava/akvca8/1169
-#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 26  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA",ARG | Canal 26  HD
-http://liontv.es:8080/RobertoChava/akvca8/334405
+
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Ciudad Magazine" tvg-logo="https://i.imgur.com/UMJSpxw.png" group-title="ARGENTINA",ARGENTINA l Ciudad Magazine
 http://liontv.es:8080/RobertoChava/akvca8/334371
 #EXTINF:-1 tvg-id="" tvg-name="ARG l AMERICA TV SD" tvg-logo="https://i.imgur.com/8ZGBx6j.png" group-title="ARGENTINA",ARG l AMERICA TV SD
@@ -37,8 +40,7 @@ http://liontv.es:8080/RobertoChava/akvca8/334362
 http://liontv.es:8080/RobertoChava/akvca8/334377
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l DEPORTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/DXTV2012logo.png/revision/latest/scale-to-width-down/1200?cb=20210101171037&path-prefix=es" group-title="ARGENTINA",ARGENTINA l DEPORTV
 http://liontv.es:8080/RobertoChava/akvca8/334373
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l C5N FHD" tvg-logo="https://i.imgur.com/fVPjvgf.png" group-title="ARGENTINA",ARGENTINA l C5N FHD
-http://liontv.es:8080/RobertoChava/akvca8/334340
+
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ER0ysRD.png" group-title="ARGENTINA",ARGENTINA | FOX SPORTS PREMIUM
 http://liontv.es:8080/RobertoChava/akvca8/334402
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Cronica" tvg-logo="https://i.imgur.com/rqVBl9M.png" group-title="ARGENTINA",ARGENTINA l Cronica
