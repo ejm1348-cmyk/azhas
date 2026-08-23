@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el Multiverso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man: Cruzando el Multiverso (2023)
+http://liontv.es:8080/movie/RobertoChava/akvca8/2002439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un Nuevo Universo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man: Un Nuevo Universo (2018)
+http://liontv.es:8080/movie/RobertoChava/akvca8/2002438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man (2002)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man (2002).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2 (2004)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGYrkVuskQKyRZ9WRS6wPTPBJpm.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man 2 (2004).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 3 (2007)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man 3 (2007).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man (2012)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swjygVNvJ84ztpgfFX9gRr2MPBZ.jpg" group-title="▶️Spider-Man (Colección)",The Amazing Spider-Man (2012).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man 2: The Power Of Electro (2014)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg" group-title="▶️Spider-Man (Colección)",The Amazing Spider-Man 2: The Power Of Electro (2014).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Homecoming (2017)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRl6C6FwzTndk0MBGZZ68nRFlw3.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man: Homecoming (2017).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Far From Home (2019)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man: Far From Home (2019).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2021)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/accAPImdjUwgNgocDNWXCGFEcvL.jpg" group-title="▶️Spider-Man (Colección)",Spider-Man: No Way Home (2021).
+http://liontv.es:8080/movie/RobertoChava/akvca8/2001248.mkv
+
 #EXTINF:-1 tvg-name="Spider Man: Lejos de casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqTRI8oP5jDhRDluuqjgrrcMgP.jpg" group-title="♦️ CINE HBO",Spider Man: Lejos de casa (2019)
 https://zona593movie.com:8443/movie/Jose1983/Jose1983/1063680.mp4
 #EXTINF:-1 tvg-name="The Amazing Spider-Man (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg" group-title="NETFLIX",The Amazing Spider-Man (2012)
