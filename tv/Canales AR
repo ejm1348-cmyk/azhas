@@ -1,4 +1,63 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR | LN +" tvg-logo="http://live.detodotvplay.com:80/images/jkDf-QiMjV7brA6RQkqlNE58WimsZef2vec-nzRyuS95ljMAC-SEmcYfuwRcIkpP.png" group-title="ARGENTINA",AR | LN +
+http://liontv.es:8080/RobertoChava/akvca8/1978218
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24" tvg-logo="https://www.lyngsat.com/logo/flag/az/ar.png" group-title="ARGENTINA",AR | A24
+http://liontv.es:8080/RobertoChava/akvca8/1978217
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/800px-Cine.Ar_logo.svg.png" group-title="ARGENTINA",ARGENTINA | CINEAR
+http://liontv.es:8080/RobertoChava/akvca8/1409262
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal Claro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA",ARG | Canal Claro
+http://liontv.es:8080/RobertoChava/akvca8/1394282
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",ARGENTINA | TELEFE OP2
+http://liontv.es:8080/RobertoChava/akvca8/1394278
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL TRECE OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",ARGENTINA | EL TRECE OP2
+http://liontv.es:8080/RobertoChava/akvca8/1394279
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Diputados TV HD" tvg-logo="http://logos.digitalesnetworks.com/logotipos/ELNUEVEARGENTINA.png" group-title="ARGENTINA",ARG | Diputados TV HD
+http://liontv.es:8080/RobertoChava/akvca8/501265
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",ARGENTINA l EL TRECE
+http://liontv.es:8080/RobertoChava/akvca8/334375
+#EXTINF:-1 tvg-id="" tvg-name="ARG |  Television Publica HD" tvg-logo="https://i.imgur.com/0xDiPya.png" group-title="ARGENTINA",ARG |  Television Publica HD
+http://liontv.es:8080/RobertoChava/akvca8/334384
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",ARG | TyC Sports HD
+http://liontv.es:8080/RobertoChava/akvca8/334271
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l El Nueve HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",ARGENTINA l El Nueve HD
+http://liontv.es:8080/RobertoChava/akvca8/334352
+#EXTINF:-1 tvg-id="" tvg-name="ARG |  Canal 26 Noticias HD" tvg-logo="https://i.imgur.com/7R7EcjP.png" group-title="ARGENTINA",ARG |  Canal 26 Noticias HD
+http://liontv.es:8080/RobertoChava/akvca8/1169
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 26  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA",ARG | Canal 26  HD
+http://liontv.es:8080/RobertoChava/akvca8/334405
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Ciudad Magazine" tvg-logo="https://i.imgur.com/UMJSpxw.png" group-title="ARGENTINA",ARGENTINA l Ciudad Magazine
+http://liontv.es:8080/RobertoChava/akvca8/334371
+#EXTINF:-1 tvg-id="" tvg-name="ARG l AMERICA TV SD" tvg-logo="https://i.imgur.com/8ZGBx6j.png" group-title="ARGENTINA",ARG l AMERICA TV SD
+http://liontv.es:8080/RobertoChava/akvca8/1164
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ARGENTINA",ARGENTINA | ESPN 3
+http://liontv.es:8080/RobertoChava/akvca8/334397
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l América TV HD" tvg-logo="https://i.imgur.com/8ZGBx6j.png" group-title="ARGENTINA",ARGENTINA l América TV HD
+http://liontv.es:8080/RobertoChava/akvca8/334362
+#EXTINF:-1 tvg-id="" tvg-name="LAT | GLITZ HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="ARGENTINA",LAT | GLITZ HD℠
+http://liontv.es:8080/RobertoChava/akvca8/334377
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l DEPORTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/DXTV2012logo.png/revision/latest/scale-to-width-down/1200?cb=20210101171037&path-prefix=es" group-title="ARGENTINA",ARGENTINA l DEPORTV
+http://liontv.es:8080/RobertoChava/akvca8/334373
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l C5N FHD" tvg-logo="https://i.imgur.com/fVPjvgf.png" group-title="ARGENTINA",ARGENTINA l C5N FHD
+http://liontv.es:8080/RobertoChava/akvca8/334340
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ER0ysRD.png" group-title="ARGENTINA",ARGENTINA | FOX SPORTS PREMIUM
+http://liontv.es:8080/RobertoChava/akvca8/334402
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Cronica" tvg-logo="https://i.imgur.com/rqVBl9M.png" group-title="ARGENTINA",ARGENTINA l Cronica
+http://liontv.es:8080/RobertoChava/akvca8/334372
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Garaje" tvg-logo="https://i.imgur.com/oKnl2jS.png" group-title="ARGENTINA",ARGENTINA l Garaje
+http://liontv.es:8080/RobertoChava/akvca8/334376
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE BUENOS AIRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",ARGENTINA | TELEFE BUENOS AIRES
+http://liontv.es:8080/RobertoChava/akvca8/334404
+#EXTINF:-1 tvg-id="" tvg-name="ARG |  Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png" group-title="ARGENTINA",ARG |  Encuentro
+http://liontv.es:8080/RobertoChava/akvca8/334347
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Canal 26" tvg-logo="https://i.imgur.com/7R7EcjP.png" group-title="ARGENTINA",ARGENTINA l Canal 26
+http://liontv.es:8080/RobertoChava/akvca8/334370
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l TN" tvg-logo="https://i.imgur.com/9DfBejx.png" group-title="ARGENTINA",ARGENTINA l TN
+http://liontv.es:8080/RobertoChava/akvca8/334383
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 4" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/ce/Large.1905650939_ESPN4.png.66e5580fda43eb907003d41f9d4770f4.png/revision/latest?cb=20220201222409&path-prefix=es" group-title="ARGENTINA",ARGENTINA | ESPN 4
+http://liontv.es:8080/RobertoChava/akvca8/334398
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="ARGENTINA",ARG | ESPN 2 HD
+http://liontv.es:8080/RobertoChava/akvca8/334396
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="LAME | ARGENTINA VIP",ARG: A&E
 http://31.43.191.125:8080/vip9441783360626/321d30e96548/4720
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA VIP",ARG: AMC
