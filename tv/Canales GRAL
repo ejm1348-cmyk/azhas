@@ -65,5 +65,44 @@ http://liontv.es:8080/RobertoChava/akvca8/855265
 http://liontv.es:8080/RobertoChava/akvca8/361824
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA | WOBI FHD" tvg-logo="https://i.ibb.co/T0jFRC4/6265170-640x640.png" group-title="⭐ CULTURA FHD",CULTURA | WOBI FHD
 http://liontv.es:8080/RobertoChava/akvca8/361825
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | D DRAMA" tvg-logo="https://yt3.googleusercontent.com/juqFnrNWST4NSao1R2cVrBAh-RoVFeg9GTdbRfw28Y6PDB1l4BOoZ4N2ELPKSVqH6SFoZvMilMk=s900-c-k-c0x00ffffff-no-rj" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | D DRAMA
+http://liontv.es:8080/RobertoChava/akvca8/776251
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | NOVELAS MX" tvg-logo="https://www.pngkey.com/png/full/146-1463700_logo-tl-novelas.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | NOVELAS MX
+http://liontv.es:8080/RobertoChava/akvca8/496548
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | MAS CHIC" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/MSCHICHD/EXPORTACION_WEB/SS/MSCHICHDWHORIZONTAL.jpg?size=290x163" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | MAS CHIC
+http://liontv.es:8080/RobertoChava/akvca8/117263
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | GLITZ
+http://liontv.es:8080/RobertoChava/akvca8/332838
+#EXTINF:-1 tvg-id="" tvg-name="CO |  RCN Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="⭐ ENTRETENIMIENTO",CO |  RCN Novelas HD
+http://liontv.es:8080/RobertoChava/akvca8/332844
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | UNIVISION MIAMI HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Miami-en-vivo-Online.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | UNIVISION MIAMI HD
+http://liontv.es:8080/RobertoChava/akvca8/117259
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | TELEMUNDO MIAMI HD" tvg-logo="https://media.telemundo51.com/2020/10/TLMD_51_Miami.png?fit=1200%2C628&quality=85&strip=all" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | TELEMUNDO MIAMI HD
+http://liontv.es:8080/RobertoChava/akvca8/117257
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | GALAVISION
+http://liontv.es:8080/RobertoChava/akvca8/117268
+#EXTINF:-1 tvg-id="UNIC" tvg-name="ENTRETENIMIENTO | UNICABLE HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/UNICABLEHD/EXPORTACION_WEB/SS/UNICABLEHDWHORIZONTAL.jpg?size=290x163" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | UNICABLE HD
+http://liontv.es:8080/RobertoChava/akvca8/117270
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | HOLA TV HD" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/HOLAHD/EXPORTACION_WEB/SS/HOLAHDWHORIZONTAL.jpg?size=290x163" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | HOLA TV HD
+http://liontv.es:8080/RobertoChava/akvca8/117266
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | UNIMAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | UNIMAS HD
+http://liontv.es:8080/RobertoChava/akvca8/117262
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | LAS ESTRELLAS HD" tvg-logo="https://i.ibb.co/4ZJyHjZ/Las-Estrellas-1-1.jpg" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | LAS ESTRELLAS HD
+http://liontv.es:8080/RobertoChava/akvca8/117254
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | AZCORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/hn_az-corazon_m.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | AZCORAZON
+http://liontv.es:8080/RobertoChava/akvca8/332840
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | COMEDY CENTRAL
+http://liontv.es:8080/RobertoChava/akvca8/332841
+#EXTINF:-1 tvg-id="FOODIT" tvg-name="ENTRETENIMIENTO | FOOD NETWORK HD" tvg-logo="https://seeklogo.com/images/F/Food_Network-logo-C21DD0D3C8-seeklogo.com.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | FOOD NETWORK HD
+http://liontv.es:8080/RobertoChava/akvca8/117264
+#EXTINF:-1 tvg-id="GOURNSD" tvg-name="ENTRETENIMIENTO | El GOURMET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | El GOURMET HD
+http://liontv.es:8080/RobertoChava/akvca8/117267
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | MTV
+http://liontv.es:8080/RobertoChava/akvca8/332843
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | DISTRITO COMEDIA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | DISTRITO COMEDIA
+http://liontv.es:8080/RobertoChava/akvca8/332842
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO | TELEKOREANO TV" tvg-logo="" group-title="⭐ ENTRETENIMIENTO",ENTRETENIMIENTO | TELEKOREANO TV
+http://liontv.es:8080/RobertoChava/akvca8/1376896
 
 
