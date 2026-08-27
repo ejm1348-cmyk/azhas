@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",C5N
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11863
+#EXTINF:-1 tvg-id="" tvg-name="TN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11839
+#EXTINF:-1 tvg-id="" tvg-name="LN+ SD" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA",LN+ SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11878
+#EXTINF:-1 tvg-id="" tvg-name="A 24 HD" tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",A 24 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11903
+
 #EXTINF:-1 tvg-id="" tvg-name="-------------ARGENTINA---------------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="ARGENTINA",-------------ARGENTINA---------------
 http://planettvweb.com:8091/Schnyder56/VLap5784d/12809
 #EXTINF:-1 tvg-id="" tvg-name="Gran hermano generación dorada" tvg-logo="https://fotos.perfil.com/2024/12/02/trim/950/534/gran-hermano-2025-1922635.jpg" group-title="ARGENTINA",Gran hermano generación dorada
@@ -17,14 +26,11 @@ http://planettvweb.com:8091/Schnyder56/VLap5784d/11858
 http://planettvweb.com:8091/Schnyder56/VLap5784d/11840
 #EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA SD" tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA",TV PUBLICA SD
 http://planettvweb.com:8091/Schnyder56/VLap5784d/14415
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",C5N
-http://planettvweb.com:8091/Schnyder56/VLap5784d/11863
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 9 SD" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA",CANAL 9 SD
 http://planettvweb.com:8091/Schnyder56/VLap5784d/11859
-#EXTINF:-1 tvg-id="" tvg-name="TN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN SD
-http://planettvweb.com:8091/Schnyder56/VLap5784d/11839
-#EXTINF:-1 tvg-id="" tvg-name="LN+ SD" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA",LN+ SD
-http://planettvweb.com:8091/Schnyder56/VLap5784d/11878
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 13 SD" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",CANAL 13 SD
 http://planettvweb.com:8091/Schnyder56/VLap5784d/11862
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 Internacional " tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",Canal 13 Internacional 
@@ -37,8 +43,7 @@ http://planettvweb.com:8091/Schnyder56/VLap5784d/11864
 http://planettvweb.com:8091/Schnyder56/VLap5784d/11897
 #EXTINF:-1 tvg-id="" tvg-name="C5N HD" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",C5N HD
 http://planettvweb.com:8091/Schnyder56/VLap5784d/11902
-#EXTINF:-1 tvg-id="" tvg-name="A 24 HD" tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",A 24 HD
-http://planettvweb.com:8091/Schnyder56/VLap5784d/11903
+
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA",AMERICA HD
 http://planettvweb.com:8091/Schnyder56/VLap5784d/11904
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 9 HD" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA",CANAL 9 HD
