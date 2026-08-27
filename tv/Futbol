@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="DEPORTES ARGENTINA HD",-------DEPORTES ARGENTINA HD-------
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14306
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN SUR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20324
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR_" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 SUR_
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20325
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 SUR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20326
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/21457
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN ARG HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12755
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 HD ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11996
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 HD ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11915
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11698
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUM ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14637
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS HD SUR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11702
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 2 SUR HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20328
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 3 SUR HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20329
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORT HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12040
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20327
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16278
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/85/0a/8e/850a8ec7-928c-bd47-6e60-81ca3a9d97c9/source/512x512bb.jpg" group-title="DEPORTES ARGENTINA HD",TNT SPORT HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11873
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUN
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16453
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 4 Dazn 4" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/03/STAR_CampeonatoUruguayo_mz.jpg" group-title="DEPORTES",Eventos 4 Dazn 4
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14405
 #EXTINF:-1 tvg-id="" tvg-name="--------DEPORTES-------" tvg-logo="https://www.iptvmexico.com.mx/wp-content/uploads/2017/10/iptv-player-latino.jpg?x80798" group-title="DEPORTES",--------DEPORTES-------
 http://planettvweb.com:8091/Schnyder56/VLap5784d/12813
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 HD
@@ -15,310 +53,117 @@ http://planettvweb.com:8091/Schnyder56/VLap5784d/20321
 http://planettvweb.com:8091/Schnyder56/VLap5784d/20322
 #EXTINF:-1 tvg-id="" tvg-name="Fox Deportes HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",Fox Deportes HD
 http://planettvweb.com:8091/Schnyder56/VLap5784d/12041
-
-#EXTINF:-1 tvg-id="" tvg-name="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="DEPORTES ARGENTINA HD",-------DEPORTES ARGENTINA HD-------
-http://planettvweb.com:8091/SebastianMoran/Moran030/14306
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/20324
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR_" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 SUR_
-http://planettvweb.com:8091/SebastianMoran/Moran030/20325
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/20326
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/21457
-#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN ARG HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12755
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 HD ARG
-http://planettvweb.com:8091/SebastianMoran/Moran030/11996
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 HD ARG
-http://planettvweb.com:8091/SebastianMoran/Moran030/11915
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 ARG
-http://planettvweb.com:8091/SebastianMoran/Moran030/11698
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUM ARG
-http://planettvweb.com:8091/SebastianMoran/Moran030/14637
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS HD SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/11702
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 2 SUR HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/20328
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 3 SUR HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/20329
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORT HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12040
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS 2
-http://planettvweb.com:8091/SebastianMoran/Moran030/20327
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS INTERNACIONAL
-http://planettvweb.com:8091/SebastianMoran/Moran030/16278
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/85/0a/8e/850a8ec7-928c-bd47-6e60-81ca3a9d97c9/source/512x512bb.jpg" group-title="DEPORTES ARGENTINA HD",TNT SPORT HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11873
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUN
-http://planettvweb.com:8091/SebastianMoran/Moran030/16453
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 4 Dazn 4" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/03/STAR_CampeonatoUruguayo_mz.jpg" group-title="DEPORTES",Eventos 4 Dazn 4
-http://planettvweb.com:8091/SebastianMoran/Moran030/14405
-#EXTINF:-1 tvg-id="" tvg-name="--------DEPORTES-------" tvg-logo="https://www.iptvmexico.com.mx/wp-content/uploads/2017/10/iptv-player-latino.jpg?x80798" group-title="DEPORTES",--------DEPORTES-------
-http://planettvweb.com:8091/SebastianMoran/Moran030/12813
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12739
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="DEPORTES",Directv Sport 2 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12042
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport +" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sport +
-http://planettvweb.com:8091/SebastianMoran/Moran030/12738
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 SD
-http://111.onetwo.lat:46201/stream/mundializzi/directvsports/stream_0.m3u8?uid=1040119798&u=admin03&p=5d9966cafbc374f6edda73b2d56ab66ad23fb28a59f0b826c2e7e3efc6a8ddba
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",FOX SPORTS PREMIUM SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/20321
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES",TYC SPORTS SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/20322
-#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",Fox Deportes HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12041
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES",TNT SPORTS SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12004
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12004
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SD " tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES",ESPN SD 
-http://planettvweb.com:8091/SebastianMoran/Moran030/11851
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11851
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD " tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 SD 
-http://planettvweb.com:8091/SebastianMoran/Moran030/11850
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11850
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3  SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES",ESPN 3  SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11849
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11849
 #EXTINF:-1 tvg-id="" tvg-name="Espn 4 SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES",Espn 4 SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/21456
+http://planettvweb.com:8091/Schnyder56/VLap5784d/21456
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SUR" tvg-logo="https://iili.io/BEUKlmx.png" group-title="DEPORTES",ESPN 5 SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/17719
-
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17719
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 7 SUR" tvg-logo="https://img.utdstc.com/icons/tigo-sports-android.png:l" group-title="DEPORTES",ESPN 7 SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/17720
+http://planettvweb.com:8091/Schnyder56/VLap5784d/17720
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Colombia HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES",ESPN Colombia HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/20323
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20323
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD Colombia" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 HD Colombia
-http://planettvweb.com:8091/SebastianMoran/Moran030/11905
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11905
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 CHILE
-http://planettvweb.com:8091/SebastianMoran/Moran030/11966
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11966
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="DEPORTES",ESPN 3 CHILE
-http://planettvweb.com:8091/SebastianMoran/Moran030/11917
-
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11917
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD" tvg-logo="https://library.kissclipart.com/20180924/bwq/kissclipart-espn-deportes-logo-clipart-espn-deportes-sports-93892b78a6709a4f.png" group-title="DEPORTES",ESPN Deportes HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11913
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11913
 #EXTINF:-1 tvg-id="" tvg-name="FUTBOL DE ECUADOR" tvg-logo="https://image.roku.com/channels/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="DEPORTES",FUTBOL DE ECUADOR
-http://planettvweb.com:8091/SebastianMoran/Moran030/16963
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16963
 #EXTINF:-1 tvg-id="" tvg-name="DeporTV HD" tvg-logo="http://descargas.podzone.net/logos/-deportv.png" group-title="DEPORTES",DeporTV HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11893
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11893
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES",CLARO SPORT SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11998
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11998
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT 2 HD" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES",CLARO SPORT 2 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11922
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11922
 #EXTINF:-1 tvg-id="" tvg-name="Ufc (Ufc Fight Pass)" tvg-logo="http://descargas.podzone.net/logos/-UFC-FIGHT-PASS.png" group-title="DEPORTES",Ufc (Ufc Fight Pass)
-http://planettvweb.com:8091/SebastianMoran/Moran030/12003
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12003
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS CHILE SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="DEPORTES",ESTADIO TNT SPORTS CHILE SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12044
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12044
 #EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUN SD" tvg-logo="http://3.bp.blogspot.com/-JFht_TGbcTI/UZbtz3tpUII/AAAAAAAAAog/9ufu15mKjcA/s1600/cdf+premium+nuevo.png" group-title="DEPORTES",CDF PREMIUN SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12001
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12001
 #EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUN HD" tvg-logo="http://3.bp.blogspot.com/-G2-4yYvvcEE/UhECiUQcGMI/AAAAAAAAOmo/a6UhoJrISyg/s1600/cdf+premium+NUEVO.png" group-title="DEPORTES",CDF PREMIUN HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12045
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12045
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="ESTADIO TNT SPORTS CHILE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-3.png" group-title="DEPORTES",ESTADIO TNT SPORTS CHILE HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/21813
+http://planettvweb.com:8091/Schnyder56/VLap5784d/21813
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL PERU
-http://planettvweb.com:8091/SebastianMoran/Moran030/12741
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12741
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",TUDN
-http://planettvweb.com:8091/SebastianMoran/Moran030/20318
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20318
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes" tvg-logo="http://descargas.podzone.net/logos/-azteca.png" group-title="DEPORTES",Azteca Deportes
-http://planettvweb.com:8091/SebastianMoran/Moran030/12020
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12020
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull (Red Bull Sports)" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES",Red Bull (Red Bull Sports)
-http://planettvweb.com:8091/SebastianMoran/Moran030/14841
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14841
 #EXTINF:-1 tvg-id="" tvg-name="MOTO GP RACING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",MOTO GP RACING
-http://planettvweb.com:8091/SebastianMoran/Moran030/14787
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14787
 #EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES",TV Max
-http://planettvweb.com:8091/SebastianMoran/Moran030/20320
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20320
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",SKY SPORTS F1
-http://planettvweb.com:8091/SebastianMoran/Moran030/40365
+http://planettvweb.com:8091/Schnyder56/VLap5784d/40365
 #EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES",Sky Bundesliga
-http://planettvweb.com:8091/SebastianMoran/Moran030/23240
+http://planettvweb.com:8091/Schnyder56/VLap5784d/23240
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="DEPORTES",TENNIS CHANNEL
-http://planettvweb.com:8091/SebastianMoran/Moran030/11845
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11845
 #EXTINF:-1 tvg-id="" tvg-name=" Wwb (Wwb Beisbol Latino)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", Wwb (Wwb Beisbol Latino)
-http://planettvweb.com:8091/SebastianMoran/Moran030/21462
+http://planettvweb.com:8091/Schnyder56/VLap5784d/21462
 #EXTINF:-1 tvg-id="" tvg-name="Hi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",Hi Sports
-http://planettvweb.com:8091/SebastianMoran/Moran030/16535
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16535
 #EXTINF:-1 tvg-id="" tvg-name="Tvcd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",Tvcd
-http://planettvweb.com:8091/SebastianMoran/Moran030/16536
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16536
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports N HD" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES",Bein Sports N HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11970
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11970
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Us" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES",Bein Sports Us
-http://planettvweb.com:8091/SebastianMoran/Moran030/21458
-
+http://planettvweb.com:8091/Schnyder56/VLap5784d/21458
 #EXTINF:-1 tvg-id="" tvg-name="NASCAR" tvg-logo="https://pbs.twimg.com/profile_images/1374024780249239556/UieJZSab_400x400.jpg" group-title="DEPORTES",NASCAR
-http://planettvweb.com:8091/SebastianMoran/Moran030/41756
+http://planettvweb.com:8091/Schnyder56/VLap5784d/41756
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL TV ECUADOR HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11971
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11971
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL TV HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11965
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11965
 #EXTINF:-1 tvg-id="" tvg-name="Tigo Sport HD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES",Tigo Sport HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/16537
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16537
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://www.digitaltveurope.com/files/2023/03/Screenshot-2023-03-08-at-12.33.41.png" group-title="DEPORTES",FIFA+
-http://planettvweb.com:8091/SebastianMoran/Moran030/20319
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20319
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ALEMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1280px-Sky_Sport_F1_-_Logo_2018.svg.png" group-title="DEPORTES",DAZN 1 ALEMAN
-http://planettvweb.com:8091/SebastianMoran/Moran030/11976
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11976
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN F1
-http://planettvweb.com:8091/SebastianMoran/Moran030/16967
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16967
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="DEPORTES",GOLF CHANNEL HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11889
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11889
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports Plus SD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",Win Sports Plus SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/38586
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38586
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports Plus HD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",Win Sports Plus HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/38587
+http://planettvweb.com:8091/Schnyder56/VLap5784d/38587
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT HD_" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",WIN SPORT HD_
-http://planettvweb.com:8091/SebastianMoran/Moran030/12445
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12445
 #EXTINF:-1 tvg-id="" tvg-name="CDO 2 SD CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CDO 2 SD CHILE
-http://planettvweb.com:8091/SebastianMoran/Moran030/12011
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12011
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN 1 FHD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12043
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12043
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN 2 FHD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11975
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11975
 #EXTINF:-1 tvg-id="" tvg-name="Bellator MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="DEPORTES",Bellator MMA
-http://planettvweb.com:8091/SebastianMoran/Moran030/41757
+http://planettvweb.com:8091/Schnyder56/VLap5784d/41757
 #EXTINF:-1 tvg-id="" tvg-name="GLORY KICKBOXING" tvg-logo="https://ih1.redbubble.net/image.2247655092.2658/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" group-title="DEPORTES",GLORY KICKBOXING
-http://planettvweb.com:8091/SebastianMoran/Moran030/16964
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16964
 #EXTINF:-1 tvg-id="" tvg-name="MLS 07: Onesoccer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",MLS 07: Onesoccer
-http://planettvweb.com:8091/SebastianMoran/Moran030/14403
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14403
 #EXTINF:-1 tvg-id="" tvg-name="MLS 04:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",MLS 04:
-http://planettvweb.com:8091/SebastianMoran/Moran030/11977
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11977
 #EXTINF:-1 tvg-id="" tvg-name=" Adrenalina" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="DEPORTES", Adrenalina
-http://planettvweb.com:8091/SebastianMoran/Moran030/83260
+http://planettvweb.com:8091/Schnyder56/VLap5784d/83260
 #EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 2" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",TUDNXTRA 2
-http://planettvweb.com:8091/SebastianMoran/Moran030/83261
+http://planettvweb.com:8091/Schnyder56/VLap5784d/83261
 #EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 3" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",TUDNXTRA 3
-http://planettvweb.com:8091/SebastianMoran/Moran030/83262
+http://planettvweb.com:8091/Schnyder56/VLap5784d/83262
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_Summer_Olympics_text_logo.svg/800px-2024_Summer_Olympics_text_logo.svg.png" group-title="DEPORTES",Claro Sports 3 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/102996
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 4 Dazn 4" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/03/STAR_CampeonatoUruguayo_mz.jpg" group-title="DEPORTES",Eventos 4 Dazn 4
-http://planettvweb.com:8091/SebastianMoran/Moran030/14405
-#EXTINF:-1 tvg-id="" tvg-name="--------DEPORTES-------" tvg-logo="https://www.iptvmexico.com.mx/wp-content/uploads/2017/10/iptv-player-latino.jpg?x80798" group-title="DEPORTES",--------DEPORTES-------
-http://planettvweb.com:8091/SebastianMoran/Moran030/12813
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12739
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="DEPORTES",Directv Sport 2 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12042
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport +" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sport +
-http://planettvweb.com:8091/SebastianMoran/Moran030/12738
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 SD
-http://111.onetwo.lat:46201/stream/mundializzi/directvsports/stream_0.m3u8?uid=1040119798&u=admin03&p=5d9966cafbc374f6edda73b2d56ab66ad23fb28a59f0b826c2e7e3efc6a8ddba
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",FOX SPORTS PREMIUM SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/20321
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES",TYC SPORTS SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/20322
-#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",Fox Deportes HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12041
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES",TNT SPORTS SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12004
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SD " tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES",ESPN SD 
-http://planettvweb.com:8091/SebastianMoran/Moran030/11851
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD " tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 SD 
-http://planettvweb.com:8091/SebastianMoran/Moran030/11850
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3  SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES",ESPN 3  SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11849
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES",Espn 4 SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/21456
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SUR" tvg-logo="https://iili.io/BEUKlmx.png" group-title="DEPORTES",ESPN 5 SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/17719
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 SUR" tvg-logo="https://img.utdstc.com/icons/tigo-sports-android.png:l" group-title="DEPORTES",ESPN 7 SUR
-http://planettvweb.com:8091/SebastianMoran/Moran030/17720
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Colombia HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="DEPORTES",ESPN Colombia HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/20323
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD Colombia" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 HD Colombia
-http://planettvweb.com:8091/SebastianMoran/Moran030/11905
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES",ESPN 2 CHILE
-http://planettvweb.com:8091/SebastianMoran/Moran030/11966
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="DEPORTES",ESPN 3 CHILE
-http://planettvweb.com:8091/SebastianMoran/Moran030/11917
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD" tvg-logo="https://library.kissclipart.com/20180924/bwq/kissclipart-espn-deportes-logo-clipart-espn-deportes-sports-93892b78a6709a4f.png" group-title="DEPORTES",ESPN Deportes HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11913
-#EXTINF:-1 tvg-id="" tvg-name="FUTBOL DE ECUADOR" tvg-logo="https://image.roku.com/channels/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="DEPORTES",FUTBOL DE ECUADOR
-http://planettvweb.com:8091/SebastianMoran/Moran030/16963
-#EXTINF:-1 tvg-id="" tvg-name="DeporTV HD" tvg-logo="http://descargas.podzone.net/logos/-deportv.png" group-title="DEPORTES",DeporTV HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11893
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES",CLARO SPORT SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11998
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT 2 HD" tvg-logo="http://cmll.com/wp-content/uploads/2015/08/claro_sport.jpg" group-title="DEPORTES",CLARO SPORT 2 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11922
-#EXTINF:-1 tvg-id="" tvg-name="Ufc (Ufc Fight Pass)" tvg-logo="http://descargas.podzone.net/logos/-UFC-FIGHT-PASS.png" group-title="DEPORTES",Ufc (Ufc Fight Pass)
-http://planettvweb.com:8091/SebastianMoran/Moran030/12003
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS CHILE SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="DEPORTES",ESTADIO TNT SPORTS CHILE SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12044
-#EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUN SD" tvg-logo="http://3.bp.blogspot.com/-JFht_TGbcTI/UZbtz3tpUII/AAAAAAAAAog/9ufu15mKjcA/s1600/cdf+premium+nuevo.png" group-title="DEPORTES",CDF PREMIUN SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12001
-#EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUN HD" tvg-logo="http://3.bp.blogspot.com/-G2-4yYvvcEE/UhECiUQcGMI/AAAAAAAAOmo/a6UhoJrISyg/s1600/cdf+premium+NUEVO.png" group-title="DEPORTES",CDF PREMIUN HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12045
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="ESTADIO TNT SPORTS CHILE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-3.png" group-title="DEPORTES",ESTADIO TNT SPORTS CHILE HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/21813
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL PERU
-http://planettvweb.com:8091/SebastianMoran/Moran030/12741
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",TUDN
-http://planettvweb.com:8091/SebastianMoran/Moran030/20318
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes" tvg-logo="http://descargas.podzone.net/logos/-azteca.png" group-title="DEPORTES",Azteca Deportes
-http://planettvweb.com:8091/SebastianMoran/Moran030/12020
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull (Red Bull Sports)" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES",Red Bull (Red Bull Sports)
-http://planettvweb.com:8091/SebastianMoran/Moran030/14841
-#EXTINF:-1 tvg-id="" tvg-name="MOTO GP RACING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",MOTO GP RACING
-http://planettvweb.com:8091/SebastianMoran/Moran030/14787
-#EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://w1.pngwing.com/pngs/235/101/png-transparent-green-grass-tvmax-television-logo-television-channel-television-show-tvn-claro-tv-thumbnail.png" group-title="DEPORTES",TV Max
-http://planettvweb.com:8091/SebastianMoran/Moran030/20320
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",SKY SPORTS F1
-http://planettvweb.com:8091/SebastianMoran/Moran030/40365
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga" tvg-logo="http://149.104.90.177/eventos14/logo.png" group-title="DEPORTES",Sky Bundesliga
-http://planettvweb.com:8091/SebastianMoran/Moran030/23240
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title="DEPORTES",TENNIS CHANNEL
-http://planettvweb.com:8091/SebastianMoran/Moran030/11845
-#EXTINF:-1 tvg-id="" tvg-name=" Wwb (Wwb Beisbol Latino)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES", Wwb (Wwb Beisbol Latino)
-http://planettvweb.com:8091/SebastianMoran/Moran030/21462
-#EXTINF:-1 tvg-id="" tvg-name="Hi Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",Hi Sports
-http://planettvweb.com:8091/SebastianMoran/Moran030/16535
-#EXTINF:-1 tvg-id="" tvg-name="Tvcd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",Tvcd
-http://planettvweb.com:8091/SebastianMoran/Moran030/16536
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports N HD" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES",Bein Sports N HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11970
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Us" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES",Bein Sports Us
-http://planettvweb.com:8091/SebastianMoran/Moran030/21458
-
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL TV ECUADOR HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11971
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="DEPORTES",GOL TV HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11965
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sport HD" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="DEPORTES",Tigo Sport HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/16537
-#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://www.digitaltveurope.com/files/2023/03/Screenshot-2023-03-08-at-12.33.41.png" group-title="DEPORTES",FIFA+
-http://planettvweb.com:8091/SebastianMoran/Moran030/20319
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ALEMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1280px-Sky_Sport_F1_-_Logo_2018.svg.png" group-title="DEPORTES",DAZN 1 ALEMAN
-http://planettvweb.com:8091/SebastianMoran/Moran030/11976
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN F1
-http://planettvweb.com:8091/SebastianMoran/Moran030/16967
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="DEPORTES",GOLF CHANNEL HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11889
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports Plus SD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",Win Sports Plus SD
-http://planettvweb.com:8091/SebastianMoran/Moran030/38586
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports Plus HD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",Win Sports Plus HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/38587
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT HD_" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="DEPORTES",WIN SPORT HD_
-http://planettvweb.com:8091/SebastianMoran/Moran030/12445
-#EXTINF:-1 tvg-id="" tvg-name="CDO 2 SD CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CDO 2 SD CHILE
-http://planettvweb.com:8091/SebastianMoran/Moran030/12011
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN 1 FHD
-http://planettvweb.com:8091/SebastianMoran/Moran030/12043
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTES",DAZN 2 FHD
-http://planettvweb.com:8091/SebastianMoran/Moran030/11975
-#EXTINF:-1 tvg-id="" tvg-name="Bellator MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="DEPORTES",Bellator MMA
-http://planettvweb.com:8091/SebastianMoran/Moran030/41757
-#EXTINF:-1 tvg-id="" tvg-name="GLORY KICKBOXING" tvg-logo="https://ih1.redbubble.net/image.2247655092.2658/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" group-title="DEPORTES",GLORY KICKBOXING
-http://planettvweb.com:8091/SebastianMoran/Moran030/16964
-#EXTINF:-1 tvg-id="" tvg-name="MLS 07: Onesoccer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",MLS 07: Onesoccer
-http://planettvweb.com:8091/SebastianMoran/Moran030/14403
-#EXTINF:-1 tvg-id="" tvg-name="MLS 04:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/969px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES",MLS 04:
-http://planettvweb.com:8091/SebastianMoran/Moran030/11977
-#EXTINF:-1 tvg-id="" tvg-name=" Adrenalina" tvg-logo="https://st1.uvnimg.com/79/61/506658634ddc88e13a6bd123364d/tudnxtra-logo.jpg" group-title="DEPORTES", Adrenalina
-http://planettvweb.com:8091/SebastianMoran/Moran030/83260
-#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 2" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",TUDNXTRA 2
-http://planettvweb.com:8091/SebastianMoran/Moran030/83261
-#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 3" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="DEPORTES",TUDNXTRA 3
-http://planettvweb.com:8091/SebastianMoran/Moran030/83262
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2024_Summer_Olympics_text_logo.svg/800px-2024_Summer_Olympics_text_logo.svg.png" group-title="DEPORTES",Claro Sports 3 HD
-http://planettvweb.com:8091/SebastianMoran/Moran030/102996
+http://planettvweb.com:8091/Schnyder56/VLap5784d/102996
