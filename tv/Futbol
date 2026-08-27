@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="--------DEPORTES-------" tvg-logo="https://www.iptvmexico.com.mx/wp-content/uploads/2017/10/iptv-player-latino.jpg?x80798" group-title="DEPORTES",--------DEPORTES-------
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12813
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12739
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sport 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="DEPORTES",Directv Sport 2 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12042
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sport +" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sport +
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12738
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="DEPORTES",Directv Sports 1 SD
+http://111.onetwo.lat:46201/stream/mundializzi/directvsports/stream_0.m3u8?uid=1040119798&u=admin03&p=5d9966cafbc374f6edda73b2d56ab66ad23fb28a59f0b826c2e7e3efc6a8ddba
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",FOX SPORTS PREMIUM SUR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20321
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES",TYC SPORTS SD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20322
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES",Fox Deportes HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12041
+
 #EXTINF:-1 tvg-id="" tvg-name="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="DEPORTES ARGENTINA HD",-------DEPORTES ARGENTINA HD-------
 http://planettvweb.com:8091/SebastianMoran/Moran030/14306
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN SUR
