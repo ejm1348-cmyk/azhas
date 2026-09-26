@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="Espn Premium Argentina" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="DEPORTES",Espn Premium Argentina
 http://playtvpremium.xyz:2082/stellar042/stellar042/6463
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="Espn Premium Argentina HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="DEPORTES",Espn Premium Argentina HD
+http://playtvpremium.xyz:2082/stellar042/stellar042/3085
 
 #EXTINF:-1 tvg-id="" tvg-name="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="DEPORTES ARGENTINA HD",-------DEPORTES ARGENTINA HD-------
 http://planettvweb.com:8091/Schnyder56/VLap5784d/14306
