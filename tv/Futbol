@@ -1,53 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TNT Sports Premium HD.cl" tvg-name="TNT SPORTS MAX" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/Max-e-TNT-900x333.png" group-title="DEPORTES PREMIUM",TNT SPORTS MAX
-http://playtvpremium.xyz:2082/stellar042/stellar042/57153
-#EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-name="TNT CHILE PREMIUM SD" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES PREMIUM",TNT CHILE PREMIUM SD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56931
-#EXTINF:-1 tvg-id="TNT Sports Premium HD.cl" tvg-name="TNT CHILE PREMIUM HD" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES PREMIUM",TNT CHILE PREMIUM HD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56932
-#EXTINF:-1 tvg-id="TNT Sports Premium HD.cl" tvg-name="TNT CHILE PREMIUM FHD" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES PREMIUM",TNT CHILE PREMIUM FHD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56933
-#EXTINF:-1 tvg-id="TNT Sports.cl" tvg-name="TNT CHILE SD" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES PREMIUM",TNT CHILE SD
-http://playtvpremium.xyz:2082/stellar042/stellar042/76241
-#EXTINF:-1 tvg-id="TNT Sports.cl" tvg-name="TNT CHILE HD" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES PREMIUM",TNT CHILE HD
-http://playtvpremium.xyz:2082/stellar042/stellar042/76243
-#EXTINF:-1 tvg-id="Tigo Sports.py" tvg-name="Tigo Sports Py" tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES PREMIUM",Tigo Sports Py
-http://playtvpremium.xyz:2082/stellar042/stellar042/57108
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO: ESPN" tvg-logo="https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg" group-title="DEPORTES PREMIUM",EVENTO: ESPN
-http://playtvpremium.xyz:2082/stellar042/stellar042/57133
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ & HBO+" tvg-logo="https://e7.pngegg.com/pngimages/168/253/png-clipart-disney-logo-tech-companies.png" group-title="DEPORTES PREMIUM",DISNEY+ & HBO+
-http://playtvpremium.xyz:2082/stellar042/stellar042/56934
-#EXTINF:-1 tvg-id="" tvg-name="LIGA Movistar" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" group-title="DEPORTES PREMIUM",LIGA Movistar
-http://playtvpremium.xyz:2082/stellar042/stellar042/76981
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES PREMIUM",DirecTV Sports
-http://playtvpremium.xyz:2082/stellar042/stellar042/76848
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="DEPORTES PREMIUM",SKY SPORTS
-http://playtvpremium.xyz:2082/stellar042/stellar042/57435
-#EXTINF:-1 tvg-id="Win Sports HD.co" tvg-name="FUTBOL COLOMBIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES PREMIUM",FUTBOL COLOMBIA SD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56940
-#EXTINF:-1 tvg-id="Win Sports HD.co" tvg-name="FUTBOL COLOMBIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES PREMIUM",FUTBOL COLOMBIA HD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56941
-#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-name="FUTBOL COLOMBIA+FHD" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES PREMIUM",FUTBOL COLOMBIA+FHD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56942
-#EXTINF:-1 tvg-id="ESPN.cl" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES PREMIUM",ESPN HD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56935
-#EXTINF:-1 tvg-id="ESPN 2.cl" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES PREMIUM",ESPN 2 HD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56936
-#EXTINF:-1 tvg-id="ESPN.cl" tvg-name="ESPN PREMIUM" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="DEPORTES PREMIUM",ESPN PREMIUM
-http://playtvpremium.xyz:2082/stellar042/stellar042/76711
-#EXTINF:-1 tvg-id="FOX Sports.cl" tvg-name="FOX PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_fox_sports_2012.png/640px-Logo_fox_sports_2012.png" group-title="DEPORTES PREMIUM",FOX PREMIUM
-http://playtvpremium.xyz:2082/stellar042/stellar042/79152
-#EXTINF:-1 tvg-id="FOX Sports 1 HD.cl" tvg-name="Fox Sports 1 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_fox_sports_2012.png/640px-Logo_fox_sports_2012.png" group-title="DEPORTES PREMIUM",Fox Sports 1 Chile
-http://playtvpremium.xyz:2082/stellar042/stellar042/56053
-#EXTINF:-1 tvg-id="FOX Sports 2.cl" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 HD
-http://playtvpremium.xyz:2082/stellar042/stellar042/56938
-#EXTINF:-1 tvg-id="FOX Sports 3.cl" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 HD
-http://playtvpremium.xyz:2082/stellar042/stellar042/76712
-#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports.jpg" group-title="DEPORTES PREMIUM",Zapping Sports
-http://playtvpremium.xyz:2082/stellar042/stellar042/76741
-#EXTINF:-1 tvg-id="" tvg-name="WWE (Solo Eventos)" tvg-logo="https://prowrestlingstories.com/wp-content/uploads/2019/09/word-image-2.png" group-title="DEPORTES PREMIUM",WWE (Solo Eventos)
-http://playtvpremium.xyz:2082/stellar042/stellar042/137317
-#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png" group-title="DEPORTES PREMIUM",FIFA+
-http://playtvpremium.xyz:2082/stellar042/stellar042/138007
-#EXTINF:-1 tvg-id="" tvg-name="FIFA+ Femenino" tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png" group-title="DEPORTES PREMIUM",FIFA+ Femenino
-http://playtvpremium.xyz:2082/stellar042/stellar042/138139
+#EXTINF:-1 tvg-id="" tvg-name="-------DEPORTES ARGENTINA HD-------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" group-title="DEPORTES ARGENTINA HD",-------DEPORTES ARGENTINA HD-------
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14306
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN SUR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20324
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR_" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 SUR_
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20325
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 SUR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20326
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/21457
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD",ESPN ARG HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12755
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD",ESPN 2 HD ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11996
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD",ESPN 3 HD ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11915
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 ARG" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD",ESPN 4 ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11698
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUM ARG
+http://planettvweb.com:8091/Schnyder56/VLap5784d/14637
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD SUR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS HD SUR
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11702
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 2 SUR HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20328
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD",FOX SPORTS 3 SUR HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20329
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORT HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/12040
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS 2
+http://planettvweb.com:8091/Schnyder56/VLap5784d/20327
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD",TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16278
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/85/0a/8e/850a8ec7-928c-bd47-6e60-81ca3a9d97c9/source/512x512bb.jpg" group-title="DEPORTES ARGENTINA HD",TNT SPORT HD
+http://planettvweb.com:8091/Schnyder56/VLap5784d/11873
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD",ESPN PREMIUN
+http://planettvweb.com:8091/Schnyder56/VLap5784d/16453
