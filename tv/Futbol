@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MLS 01 | Los Angeles Football Club vs. LA Galaxy | 8:30 PM ET | 10.25 | EN" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="MLS - APPLE TV - ONLY EVENTS",MLS 01 | Los Angeles Football Club vs. LA Galaxy | 8:30 PM ET | 10.25 | EN
-http://volltv.site:8080/live/CRISTIANAN18/ALMVFRPADH76/1733750.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Basketball | 03:00 PM | Santa Barbara vs. LMU" tvg-logo="https://smsumustangs.com/images/2017/2/15/NCAAMBBlogo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NCAA Basketball | 03:00 PM | Santa Barbara vs. LMU
+http://ccf.center:8444/irenehernandez908/yCy34jab32/232013
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SUDAMERICANA 1 |" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-sulamericana-logo.png" group-title="⚽COPA SUDAMERICANA⚽",SUDAMERICANA 1 |
 http://volltv.site:8080/live/CRISTIANAN18/ALMVFRPADH76/751961.ts
